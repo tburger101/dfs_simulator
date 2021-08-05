@@ -1,0 +1,11 @@
+{
+'salary_cap' : 50000,
+'roster_const':[('QB', 1), ('D', 1), ('RB', 2), ('WR', 3), ('TE', 1), ('flex', 1)],
+'total_roster':9,
+'stack_player_percent': [.08, .42, .44, .06],
+'opp_stack_percent': .5,
+'contest_size': 5000,
+'num_sims': 5000,
+'top_percent':.005,
+'path': "C:/Users/travi/PycharmProjects/nfl_lineup_sim"
+}
