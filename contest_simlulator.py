@@ -39,9 +39,9 @@ class lineup_simulator:
         self.top_percent = settings.get('top_percent')
         self.csv_path = settings.get('path')
 
-        ownership_loc=str(self.csv_path+"/"+"ownership_player.csv")
-        corr_loc=str(self.csv_path+"/"+"correlation.csv")
-        projection_loc = str(self.csv_path + "/" + "player_projection_std.csv")
+        ownership_loc=str(self.csv_path+"/Input Files/"+"ownership_player.csv")
+        corr_loc=str(self.csv_path+"/Input Files/"+"correlation.csv")
+        projection_loc = str(self.csv_path + "/Input Files/" + "player_projection_std.csv")
 
         ownership_df=pd.read_csv(ownership_loc)
         projections_df=pd.read_csv(projection_loc)
