@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa171e77-54a8-44f3-8311-eea7b42f14d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output Files/dummy_teams.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Output Files/dummy_teams.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output Files/ranks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Output Files/ranks.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output Files/sim_ownership.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Output Files/sim_ownership.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contest_simlulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/contest_simlulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correlation.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy_teams.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ownership_player.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_projection_std.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ranks.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sim_ownership.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,20 +20,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contest_simlulator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+            <state relative-caret-position="138">
+              <caret line="446" column="8" lean-forward="true" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pandas/core/internals/managers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="154" selection-start-line="154" selection-end-line="154" />
             </state>
           </provider>
         </entry>
@@ -53,6 +41,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ownership_index_df</find>
+      <find>opp_teams</find>
+      <find>sim_ranks</find>
+      <find>sim_ownership</find>
+      <find>split_sims(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -67,11 +59,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-24" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="y" value="30" />
     <option name="width" value="1935" />
-    <option name="height" value="1008" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,10 +164,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-19" y="32" width="1548" height="806" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25033557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -183,8 +176,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34814814" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3748148" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32775453" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37377962" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -198,17 +191,47 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>self.lineups[(self.lineups['place'] &lt;= top_place_cutoff)]</expression-string>
+        <expression-string>rank_df.pivot_table(index='team_id', columns='rank_bin', aggfunc={'rank_bin':len}, fill_value=0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(np.sum(lineup_own, axis=0))</expression-string>
+        <expression-string>pd.pivot(rank_df, index='team_id', columns='rank_bin', fill_value=0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(np.sum(lineup_own, axis=0)</expression-string>
+        <expression-string>pd.pivot(rank_df, index='team_id', columns='rank_bin', aggfunc='count', fill_value=0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.pivot_table(rank_df, index='team_id', values='rank_bin', aggfunc='count', fill_value=0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.pivot_table(rank_df, index='team_id', columns='rank_bin', values='rank_bin', aggfunc='count', fill_value=0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.pivot_table(rank_df, index='team_id', columns='rank_bin', aggfunc='count', fill_value=0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>=pd.pivot_table(rank_df, index='team_id', columns='rank_bin', aggfunc='count', fill_value=0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(self.lineups.index.values.tolist()*total_sims)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(ranks)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -219,13 +242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2496">
-          <caret line="656" selection-start-line="656" selection-end-line="656" />
         </state>
       </provider>
     </entry>
@@ -243,10 +259,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contest_simlulator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+        <state relative-caret-position="138">
+          <caret line="446" column="8" lean-forward="true" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
