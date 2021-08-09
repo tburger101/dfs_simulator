@@ -393,13 +393,15 @@ class lineup_simulator:
         sim_ownership_df.to_csv(str(self.csv_path + "/Output Files/" + "sim_ownership.csv"), index=False)
 
     def sim_rankings(self, sim_range):
-        '''When the contest is simulated we are collecting data on three things.
+        '''
+        When the contest is simulated we are collecting data on three things.
             1. What place did all the teams finish in and convert that to a bin or percentile.
             For example bin 0 corresponds to top 1% AKA total_ranks
             2. How many total lineups are inside the top percent set in the config file.
             This seems easy but needs to be calculated because there can be ties decimal top place cut off
             based on the size of the contest AKA total_teams
-            3. Ownership of each player in the top percent AKA total_own'''
+            3. Ownership of each player in the top percent AKA total_own
+            '''
 
 
         ranks=[]
@@ -444,7 +446,7 @@ class lineup_simulator:
         for rank in sim_reults_data:
             total_rank=total_rank+rank.get('ranks')
         final_rank_df=pd.DataFrame(total_rank)
-        
+
         final_rank_df.columns=['bin'+str(x) for x in final_rank_df.columns]
         final_rank_df.to_csv(str(self.csv_path + "/Output Files/" + "ranks.csv"), index=True)
 
