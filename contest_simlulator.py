@@ -183,9 +183,8 @@ class lineup_simulator:
                             try:
                                 player_info = sample_df[
                                     (sample_df['position'] == pos) & (sample_df['salary'] >= avg_slary_remain_min) & (
-                                            sample_df['salary'] <= avg_salary_remain_max) & (
-                                                sample_df['team'] != qb_team) &
-                                    (sample_df['opp'] != qb_opp)].sample(n=1, replace=True).values
+                                            sample_df['salary'] <= avg_salary_remain_max) & ~(
+                                                sample_df['team'].isin([qb_team, qb_opp]))].sample(n=1, replace=True).values
                             except ValueError:
                                 player_info = sample_df[(sample_df['position'] == pos)].sample(n=1, replace=True).values
 
@@ -223,12 +222,11 @@ class lineup_simulator:
                         player_info = sample_df[((sample_df['position'] == 'RB') | (sample_df['position'] == 'WR') | (
                                     sample_df['position'] == 'TE'))
                                                 & (sample_df['salary'] <= remaining_salary) & (
-                                                            sample_df['salary'] >= salary_floor) & (
-                                                            sample_df['team'] != qb_team) &
-                                                (sample_df['opp'] != qb_opp)].sample(n=1).values
+                                                            sample_df['salary'] >= salary_floor) & ~(
+                                                            sample_df['team'].isin([qb_opp,qb_team]))].sample(n=1).values
                     except ValueError:
                         player_info = sample_df[((sample_df['position'] == 'RB') | (sample_df['position'] == 'WR') | (
-                                    sample_df['position'] == 'TE'))].sample(n=1, replace=True).values
+                                    sample_df['position'] == 'TE'))& ~(sample_df['team'].isin([qb_opp,qb_team]))].sample(n=1).values
                     player = player_info[0][0]
                     sample_df = sample_df[(sample_df['player_name'] != player)]
                     team_df.at[player, 'own'] = 1
@@ -409,6 +407,7 @@ class lineup_simulator:
         total_teams=0
         top_place_cutoff = max(self.top_percent * len(self.lineups), 1)
         total_sims=sim_range[1]-sim_range[0]
+        total_bins=int(1/self.top_percent)
 
         for x in range(sim_range[0], sim_range[1]):
             sim=self.player_samples[x]
@@ -417,7 +416,7 @@ class lineup_simulator:
             lineup_own = np.array(self.lineups[(self.lineups['place'] <= top_place_cutoff)].values.tolist())
             total_teams=len(self.lineups[(self.lineups['place'] <= top_place_cutoff)])+ total_teams
             total_own = total_own + (np.sum(lineup_own, axis=0))
-            ranks=ranks+ (pd.cut(self.lineups['place'], bins=100, labels=False)).tolist()
+            ranks=ranks+ (pd.cut(self.lineups['place'], bins=total_bins, labels=False)).tolist()
             del self.lineups['total_fp']
             del self.lineups['place']
 

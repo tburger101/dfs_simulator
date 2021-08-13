@@ -4,8 +4,8 @@
 'total_roster':9,
 'stack_player_percent': [.08, .42, .44, .06],
 'opp_stack_percent': .5,
-'contest_size': 150,
+'contest_size': 200,
 'num_sims': 1000,
 'top_percent':.005,
-'path': "C:/Users/travi/PycharmProjects/nfl_lineup_sim"
+'path': "C:/Users/travi/PycharmProjects/dfs_simulator/dfs_contest_sims"
 }

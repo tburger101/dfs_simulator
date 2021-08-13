@@ -1,1351 +1,1801 @@
 id,player,position,salary
-0,Sterling Shepard,WR,4500
+0,Austin Ekeler,RB,7600
+0,Robert Woods,WR,7000
+0,Rams,D,3100
 0,Travis Kelce,TE,8500
-0,Le'Veon Bell,RB,5800
-0,Chad Hansen,WR,4400
-0,Amari Cooper,WR,5700
-0,Panthers,D,2700
+0,Keelan Cole Sr.,WR,3500
+0,Tyler Eifert,TE,3000
+0,Dare Ogunbowale,RB,4000
+0,Mike Glennon,QB,4800
 0,Calvin Ridley,WR,8500
-0,Ito Smith,RB,4000
-0,Matt Ryan,QB,5800
-1,Eagles,D,2900
-1,Austin Ekeler,RB,7600
-1,Robert Woods,WR,7000
-1,Jonathan Taylor,RB,7300
-1,Tim Patrick,WR,4200
-1,Noah Fant,TE,4800
+1,Darius Slayton,WR,3800
+1,Cooper Kupp,WR,6600
+1,Rams,D,3100
+1,Travis Kelce,TE,8500
 1,Melvin Gordon III,RB,5600
-1,Drew Lock,QB,5000
-1,CeeDee Lamb,WR,5300
-2,DK Metcalf,WR,7800
-2,Dallas Goedert,TE,3600
-2,Austin Ekeler,RB,7600
-2,Colts,D,3200
-2,CeeDee Lamb,WR,5300
-2,Ezekiel Elliott,RB,6700
-2,Andy Dalton,QB,5500
-2,Giovani Bernard,RB,4800
+1,Giovani Bernard,RB,4800
+1,Dez Bryant,WR,3000
+1,J.K. Dobbins,RB,6200
+1,Lamar Jackson,QB,8000
+2,Chris Carson,RB,6400
+2,Greg Ward,WR,4000
+2,Jalen Hurts,QB,7000
+2,Evan Engram,TE,3900
+2,Darrell Henderson Jr.,RB,4500
+2,Bengals,D,2300
+2,Allen Robinson II,WR,7700
 2,Robby Anderson,WR,5500
-3,Diontae Johnson,WR,6300
-3,Miles Sanders,RB,7000
-3,Evan Engram,TE,3900
-3,Travis Kelce,TE,8500
-3,Brandin Cooks,WR,6200
-3,Browns,D,3700
-3,Tee Higgins,WR,4700
-3,Giovani Bernard,RB,4800
-3,Ryan Finley,QB,4800
-4,Greg Ward,WR,4000
-4,Jalen Hurts,QB,7000
+2,Calvin Ridley,WR,8500
+3,Tyler Lockett,WR,6500
+3,Chris Carson,RB,6400
+3,Russell Wilson,QB,7300
+3,JuJu Smith-Schuster,WR,6000
+3,Chargers,D,3300
+3,Darrell Henderson Jr.,RB,4500
+3,Ezekiel Elliott,RB,6700
+3,A.J. Green,WR,3400
+3,Mark Andrews,TE,5700
+4,Seahawks,D,2600
+4,Jamison Crowder,WR,4500
 4,Austin Ekeler,RB,7600
-4,Jaguars,D,2200
-4,Amari Cooper,WR,5700
-4,Dalton Schultz,TE,3200
-4,David Montgomery,RB,7700
-4,Willie Snead IV,WR,3900
-4,Calvin Ridley,WR,8500
-5,Diontae Johnson,WR,6300
+4,Travis Kelce,TE,8500
+4,Darrel Williams,RB,4200
+4,Patrick Mahomes,QB,8500
+4,Tee Higgins,WR,4700
+4,A.J. Green,WR,3400
+4,Marquise Brown,WR,5700
+5,WAS Football Team,D,3000
+5,Greg Ward,WR,4000
+5,Dallas Goedert,TE,3600
 5,Miles Sanders,RB,7000
-5,Jaguars,D,2200
-5,Brandin Cooks,WR,6200
-5,Austin Hooper,TE,3500
-5,Kareem Hunt,RB,5900
-5,Baker Mayfield,QB,6100
-5,Tee Higgins,WR,4700
-5,David Montgomery,RB,7700
-6,Miles Sanders,RB,7000
-6,Sterling Shepard,WR,4500
-6,Chris Conley,WR,3000
-6,Broncos,D,2300
-6,Nick Chubb,RB,7800
-6,Mark Andrews,TE,5700
-6,J.K. Dobbins,RB,6200
-6,Lamar Jackson,QB,8000
+5,Jalen Hurts,QB,7000
+5,Sammy Watkins,WR,5000
+5,Ezekiel Elliott,RB,6700
+5,Nick Chubb,RB,7800
+5,Marquise Brown,WR,5700
+6,Eric Ebron,TE,4200
+6,Tyreek Hill,WR,9000
+6,Michael Gallup,WR,4100
+6,Andy Dalton,QB,5500
+6,Allen Robinson II,WR,7700
+6,Bears,D,3600
+6,Mike Davis,RB,6500
 6,Russell Gage,WR,5100
+6,Ito Smith,RB,4000
+7,Diontae Johnson,WR,6300
+7,Zach Ertz,TE,3100
 7,Miles Sanders,RB,7000
-7,Austin Ekeler,RB,7600
-7,Josh Reynolds,WR,3200
-7,Travis Kelce,TE,8500
-7,Jaguars,D,2200
-7,Jerry Jeudy,WR,3700
-7,Royce Freeman,RB,4000
-7,Drew Lock,QB,5000
+7,Jalen Hurts,QB,7000
+7,Tyron Johnson,WR,4000
+7,Darrell Henderson Jr.,RB,4500
+7,Amari Cooper,WR,5700
+7,Bears,D,3600
 7,Calvin Ridley,WR,8500
-8,Ty Johnson,RB,4500
-8,Giants,D,2500
-8,Mike Williams,WR,4500
-8,Robert Woods,WR,7000
-8,David Montgomery,RB,7700
-8,Marquise Brown,WR,5700
+8,La'Mical Perine,RB,4000
+8,Donald Parham Jr.,TE,2500
+8,Kalen Ballage,RB,4000
+8,Justin Herbert,QB,7400
+8,Travis Kelce,TE,8500
+8,Jerry Jeudy,WR,3700
+8,Allen Robinson II,WR,7700
+8,Bears,D,3600
 8,Calvin Ridley,WR,8500
-8,Hayden Hurst,TE,3400
-8,Matt Ryan,QB,5800
-9,J.D. McKissic,RB,6400
-9,Mike Williams,WR,4500
-9,Justin Herbert,QB,7400
-9,Travis Kelce,TE,8500
-9,Texans,D,2800
-9,KJ Hamler,WR,3200
-9,Melvin Gordon III,RB,5600
-9,Amari Cooper,WR,5700
-9,Robby Anderson,WR,5500
-10,WAS Football Team,D,3000
-10,Mike Williams,WR,4500
+9,Logan Thomas,TE,4900
+9,Seahawks,D,2600
+9,Diontae Johnson,WR,6300
+9,Jalen Reagor,WR,4600
+9,Miles Sanders,RB,7000
+9,Jalen Hurts,QB,7000
+9,Le'Veon Bell,RB,5800
+9,Laviska Shenault Jr.,WR,3700
+9,Allen Robinson II,WR,7700
+10,Greg Ward,WR,4000
+10,Jalen Hurts,QB,7000
 10,Austin Ekeler,RB,7600
-10,Justin Herbert,QB,7400
-10,Robert Woods,WR,7000
-10,Darrell Henderson Jr.,RB,4500
-10,Travis Kelce,TE,8500
-10,Tim Patrick,WR,4200
-10,Drew Sample,TE,2900
-11,DK Metcalf,WR,7800
-11,Darrell Henderson Jr.,RB,4500
+10,Sammy Watkins,WR,5000
+10,Le'Veon Bell,RB,5800
+10,Noah Fant,TE,4800
+10,DJ Moore,WR,5800
+10,Marquise Brown,WR,5700
+10,Ravens,D,4000
+11,Chris Carson,RB,6400
+11,Austin Ekeler,RB,7600
 11,Tyreek Hill,WR,9000
-11,Michael Pittman Jr.,WR,4200
-11,Noah Fant,TE,4800
-11,Bengals,D,2300
-11,Allen Robinson II,WR,7700
-11,Mitchell Trubisky,QB,5700
-11,Ito Smith,RB,4000
+11,Browns,D,3700
+11,Tee Higgins,WR,4700
+11,Giovani Bernard,RB,4800
+11,Brandon Allen,QB,4800
+11,Cole Kmet,TE,3000
+11,Marquise Brown,WR,5700
+12,Chris Carson,RB,6400
+12,Seahawks,D,2600
+12,Mike Williams,WR,4500
+12,Tyreek Hill,WR,9000
 12,Travis Kelce,TE,8500
+12,Tim Patrick,WR,4200
 12,Melvin Gordon III,RB,5600
 12,Royce Freeman,RB,4000
 12,Drew Lock,QB,5000
-12,Robby Anderson,WR,5500
-12,Mark Andrews,TE,5700
-12,Calvin Ridley,WR,8500
-12,Russell Gage,WR,5100
-12,Falcons,D,1900
-13,Tyler Lockett,WR,6500
-13,JuJu Smith-Schuster,WR,6000
-13,Darrell Henderson Jr.,RB,4500
-13,Patrick Mahomes,QB,8500
-13,Jaguars,D,2200
-13,Tee Higgins,WR,4700
-13,David Montgomery,RB,7700
-13,J.K. Dobbins,RB,6200
-13,Hayden Hurst,TE,3400
+13,Diontae Johnson,WR,6300
+13,Miles Sanders,RB,7000
+13,Jets,D,2000
+13,Travis Kelce,TE,8500
+13,Le'Veon Bell,RB,5800
+13,DJ Chark Jr.,WR,4800
+13,Chris Conley,WR,3000
+13,Mike Glennon,QB,4800
+13,Allen Robinson II,WR,7700
+14,Diontae Johnson,WR,6300
+14,Miles Sanders,RB,7000
 14,Austin Ekeler,RB,7600
-14,Le'Veon Bell,RB,5800
-14,Chad Hansen,WR,4400
-14,Jordan Akins,TE,3300
-14,Deshaun Watson,QB,7600
-14,Browns,D,3700
-14,Tee Higgins,WR,4700
-14,Rodney Smith,RB,4000
-14,Calvin Ridley,WR,8500
-15,Evan Engram,TE,3900
-15,Brandin Cooks,WR,6200
-15,Chad Hansen,WR,4400
-15,Browns,D,3700
-15,David Montgomery,RB,7700
-15,Marquise Brown,WR,5700
-15,J.K. Dobbins,RB,6200
-15,Lamar Jackson,QB,8000
-15,Ito Smith,RB,4000
-16,Tyler Lockett,WR,6500
-16,Cooper Kupp,WR,6600
+14,Chargers,D,3300
+14,Tyreek Hill,WR,9000
+14,Marvin Hall,WR,3000
+14,Austin Hooper,TE,3500
+14,Baker Mayfield,QB,6100
+14,Darnell Mooney,WR,4000
+15,Steelers,D,3500
+15,Miles Sanders,RB,7000
+15,Sterling Shepard,WR,4500
+15,Darius Slayton,WR,3800
+15,Daniel Jones,QB,5000
+15,Travis Kelce,TE,8500
+15,CeeDee Lamb,WR,5300
+15,Allen Robinson II,WR,7700
+15,Gus Edwards,RB,4400
+16,Tyron Johnson,WR,4000
 16,Darrell Henderson Jr.,RB,4500
-16,Jared Goff,QB,5900
+16,Sammy Watkins,WR,5000
 16,Travis Kelce,TE,8500
+16,Patrick Mahomes,QB,8500
+16,C.J. Prosise,RB,4000
 16,Broncos,D,2300
-16,Giovani Bernard,RB,4800
-16,DJ Moore,WR,5800
-16,Todd Gurley II,RB,4700
-17,Austin Ekeler,RB,7600
-17,Travis Kelce,TE,8500
+16,Allen Robinson II,WR,7700
+16,Russell Gage,WR,5100
+17,Zach Ertz,TE,3100
+17,Jamison Crowder,WR,4500
+17,Cooper Kupp,WR,6600
+17,Robert Woods,WR,7000
+17,Jared Goff,QB,5900
 17,Le'Veon Bell,RB,5800
-17,Patrick Mahomes,QB,8500
-17,Jerry Jeudy,WR,3700
-17,Tee Higgins,WR,4700
-17,A.J. Green,WR,3400
-17,Bengals,D,2300
-17,Robby Anderson,WR,5500
-18,Antonio Gibson,RB,6600
-18,Malcolm Brown,RB,4000
-18,Keelan Cole Sr.,WR,3500
-18,CeeDee Lamb,WR,5300
-18,Browns,D,3700
-18,Allen Robinson II,WR,7700
+17,Colts,D,3200
+17,Brandin Cooks,WR,6200
+17,David Montgomery,RB,7700
+18,Alshon Jeffery,WR,3200
+18,Mike Williams,WR,4500
+18,Donald Parham Jr.,TE,2500
+18,Austin Ekeler,RB,7600
+18,Justin Herbert,QB,7400
+18,Tyreek Hill,WR,9000
+18,Jerry Jeudy,WR,3700
 18,David Montgomery,RB,7700
-18,Mitchell Trubisky,QB,5700
-18,Mark Andrews,TE,5700
-19,Tyler Lockett,WR,6500
+18,Ravens,D,4000
+19,J.D. McKissic,RB,6400
+19,Will Dissly,TE,2500
 19,Diontae Johnson,WR,6300
-19,Dallas Goedert,TE,3600
-19,Cooper Kupp,WR,6600
-19,Darrell Henderson Jr.,RB,4500
-19,Jared Goff,QB,5900
-19,Texans,D,2800
-19,Amari Cooper,WR,5700
-19,David Montgomery,RB,7700
-20,Robert Woods,WR,7000
+19,Austin Ekeler,RB,7600
+19,Demarcus Robinson,WR,3900
+19,Brandin Cooks,WR,6200
+19,Andy Dalton,QB,5500
+19,Panthers,D,2700
+19,Calvin Ridley,WR,8500
+20,Mike Williams,WR,4500
+20,Cooper Kupp,WR,6600
+20,Darrell Henderson Jr.,RB,4500
 20,Travis Kelce,TE,8500
-20,Le'Veon Bell,RB,5800
-20,Patrick Mahomes,QB,8500
-20,Chris Conley,WR,3000
-20,Dare Ogunbowale,RB,4000
-20,T.Y. Hilton,WR,5500
-20,Tee Higgins,WR,4700
-20,Panthers,D,2700
-21,WAS Football Team,D,3000
-21,Miles Sanders,RB,7000
-21,Jamison Crowder,WR,4500
-21,Denzel Mims,WR,3600
-21,Sam Darnold,QB,5000
-21,Travis Kelce,TE,8500
-21,T.Y. Hilton,WR,5500
-21,Noah Fant,TE,4800
-21,Nick Chubb,RB,7800
-22,Darius Slayton,WR,3800
-22,Evan Engram,TE,3900
-22,Daniel Jones,QB,5000
-22,Austin Ekeler,RB,7600
-22,Brandin Cooks,WR,6200
-22,Texans,D,2800
-22,Nick Chubb,RB,7800
-22,Gus Edwards,RB,4400
+20,Texans,D,2800
+20,Amari Cooper,WR,5700
+20,Darnell Mooney,WR,4000
+20,David Montgomery,RB,7700
+20,Mitchell Trubisky,QB,5700
+21,Tyreek Hill,WR,9000
+21,Le'Veon Bell,RB,5800
+21,Patrick Mahomes,QB,8500
+21,DJ Chark Jr.,WR,4800
+21,Laviska Shenault Jr.,WR,3700
+21,Texans,D,2800
+21,Darnell Mooney,WR,4000
+21,David Montgomery,RB,7700
+21,Hayden Hurst,TE,3400
+22,Jets,D,2000
+22,Robert Woods,WR,7000
+22,Travis Kelce,TE,8500
+22,Chris Conley,WR,3000
+22,Dare Ogunbowale,RB,4000
+22,Mike Glennon,QB,4800
+22,Chad Hansen,WR,4400
+22,David Montgomery,RB,7700
 22,Calvin Ridley,WR,8500
-23,WAS Football Team,D,3000
-23,Travis Fulgham,WR,3500
-23,Miles Sanders,RB,7000
-23,Jalen Hurts,QB,7000
-23,Travis Kelce,TE,8500
-23,Chad Hansen,WR,4400
-23,Tony Pollard,RB,6500
-23,Tee Higgins,WR,4700
-23,Russell Gage,WR,5100
-24,Justin Herbert,QB,7400
-24,Darrell Henderson Jr.,RB,4500
-24,Le'Veon Bell,RB,5800
-24,Michael Pittman Jr.,WR,4200
-24,Noah Fant,TE,4800
-24,A.J. Green,WR,3400
-24,David Montgomery,RB,7700
-24,Bears,D,3600
-24,Calvin Ridley,WR,8500
-25,Jamison Crowder,WR,4500
-25,Sterling Shepard,WR,4500
-25,Evan Engram,TE,3900
-25,Rams,D,3100
-25,Travis Kelce,TE,8500
-25,CeeDee Lamb,WR,5300
-25,Nick Chubb,RB,7800
-25,Kareem Hunt,RB,5900
-25,Baker Mayfield,QB,6100
-26,Austin Ekeler,RB,7600
-26,DJ Chark Jr.,WR,4800
-26,Devine Ozigbo,RB,4000
-26,Gardner Minshew II,QB,5200
+23,Tyron Johnson,WR,4000
+23,Justin Herbert,QB,7400
+23,Laviska Shenault Jr.,WR,3700
+23,Michael Pittman Jr.,WR,4200
+23,Jonathan Taylor,RB,7300
+23,Austin Hooper,TE,3500
+23,Nick Chubb,RB,7800
+23,Allen Robinson II,WR,7700
+23,Ravens,D,4000
+24,Antonio Gibson,RB,6600
+24,Jalen Reagor,WR,4600
+24,Miles Sanders,RB,7000
+24,Boston Scott,RB,4900
+24,Jalen Hurts,QB,7000
+24,Jets,D,2000
+24,Travis Kelce,TE,8500
+24,Brandin Cooks,WR,6200
+24,Marvin Hall,WR,3000
+25,David Moore,WR,3200
+25,Russell Wilson,QB,7300
+25,Steelers,D,3500
+25,Gerald Everett,TE,2800
+25,Michael Gallup,WR,4100
+25,Tony Pollard,RB,6500
+25,Allen Robinson II,WR,7700
+25,J.K. Dobbins,RB,6200
+25,Calvin Ridley,WR,8500
+26,Steelers,D,3500
+26,Cooper Kupp,WR,6600
 26,Jonathan Taylor,RB,7300
-26,Brandin Cooks,WR,6200
-26,Panthers,D,2700
+26,Nyheim Hines,RB,5000
+26,Tim Patrick,WR,4200
+26,Noah Fant,TE,4800
+26,Drew Lock,QB,5000
+26,Giovani Bernard,RB,4800
 26,Calvin Ridley,WR,8500
-26,Hayden Hurst,TE,3400
-27,Miles Sanders,RB,7000
-27,Jamison Crowder,WR,4500
-27,Jets,D,2000
-27,Robert Woods,WR,7000
-27,Darrell Henderson Jr.,RB,4500
-27,Jared Goff,QB,5900
+27,K.J. Hill,WR,3000
+27,Austin Ekeler,RB,7600
+27,Patrick Mahomes,QB,8500
+27,Laviska Shenault Jr.,WR,3700
+27,Dare Ogunbowale,RB,4000
+27,Jordan Akins,TE,3300
 27,Allen Robinson II,WR,7700
-27,David Montgomery,RB,7700
-27,Hayden Hurst,TE,3400
-28,Seahawks,D,2600
-28,Dallas Goedert,TE,3600
-28,Miles Sanders,RB,7000
-28,Travis Kelce,TE,8500
-28,Amari Cooper,WR,5700
-28,CeeDee Lamb,WR,5300
-28,Michael Gallup,WR,4100
-28,Andy Dalton,QB,5500
+27,Bears,D,3600
+27,Calvin Ridley,WR,8500
+28,Steven Sims Jr.,WR,3000
+28,Dwayne Haskins Jr.,QB,5200
+28,Robert Woods,WR,7000
+28,Tyler Higbee,TE,4000
+28,Tyreek Hill,WR,9000
+28,Cowboys,D,2400
+28,Kareem Hunt,RB,5900
 28,David Montgomery,RB,7700
+28,Robby Anderson,WR,5500
 29,Diontae Johnson,WR,6300
-29,Darrell Henderson Jr.,RB,4500
-29,Amari Cooper,WR,5700
-29,Austin Hooper,TE,3500
-29,Nick Chubb,RB,7800
-29,Baker Mayfield,QB,6100
-29,Tee Higgins,WR,4700
-29,Panthers,D,2700
+29,Austin Ekeler,RB,7600
+29,Sammy Watkins,WR,5000
+29,Jonathan Taylor,RB,7300
+29,Noah Fant,TE,4800
+29,A.J. Green,WR,3400
+29,Brandon Allen,QB,4800
 29,Calvin Ridley,WR,8500
-30,Logan Thomas,TE,4900
+29,Falcons,D,1900
+30,Steelers,D,3500
+30,Greg Ward,WR,4000
+30,Miles Sanders,RB,7000
+30,Jalen Hurts,QB,7000
+30,Mike Williams,WR,4500
+30,Donald Parham Jr.,TE,2500
 30,Austin Ekeler,RB,7600
-30,DJ Chark Jr.,WR,4800
-30,Texans,D,2800
+30,Le'Veon Bell,RB,5800
 30,Allen Robinson II,WR,7700
-30,Darnell Mooney,WR,4000
-30,David Montgomery,RB,7700
-30,Mitchell Trubisky,QB,5700
-30,Todd Gurley II,RB,4700
-31,JuJu Smith-Schuster,WR,6000
-31,Jalen Reagor,WR,4600
-31,Miles Sanders,RB,7000
-31,Darrell Henderson Jr.,RB,4500
-31,Broncos,D,2300
-31,Mitchell Trubisky,QB,5700
-31,Robby Anderson,WR,5500
-31,Mark Andrews,TE,5700
-31,Calvin Ridley,WR,8500
-32,Travis Kelce,TE,8500
-32,Chris Conley,WR,3000
-32,Nyheim Hines,RB,5000
-32,Colts,D,3200
-32,Melvin Gordon III,RB,5600
+31,Denzel Mims,WR,3600
+31,La'Mical Perine,RB,4000
+31,Sam Darnold,QB,5000
+31,Austin Ekeler,RB,7600
+31,Tyreek Hill,WR,9000
+31,Colts,D,3200
+31,Austin Hooper,TE,3500
+31,Allen Robinson II,WR,7700
+31,J.K. Dobbins,RB,6200
+32,Cam Sims,WR,3300
+32,Dallas Goedert,TE,3600
+32,Mike Williams,WR,4500
+32,Austin Ekeler,RB,7600
+32,Le'Veon Bell,RB,5800
 32,Allen Robinson II,WR,7700
-32,Anthony Miller,WR,3200
-32,David Montgomery,RB,7700
-32,Mitchell Trubisky,QB,5700
-33,Cam Sims,WR,3300
-33,Eagles,D,2900
-33,Donald Parham Jr.,TE,2500
+32,Bears,D,3600
+32,Marquise Brown,WR,5700
+32,Lamar Jackson,QB,8000
+33,Miles Sanders,RB,7000
+33,Denzel Mims,WR,3600
 33,Darrell Henderson Jr.,RB,4500
-33,Tyreek Hill,WR,9000
-33,Patrick Mahomes,QB,8500
-33,Chris Conley,WR,3000
-33,David Montgomery,RB,7700
+33,Travis Kelce,TE,8500
+33,Texans,D,2800
+33,Amari Cooper,WR,5700
+33,Marvin Hall,WR,3000
+33,Baker Mayfield,QB,6100
 33,Calvin Ridley,WR,8500
-34,WAS Football Team,D,3000
+34,Dallas Goedert,TE,3600
 34,Miles Sanders,RB,7000
-34,Denzel Mims,WR,3600
-34,Austin Ekeler,RB,7600
-34,Keke Coutee,WR,5400
-34,Deshaun Watson,QB,7600
-34,Tee Higgins,WR,4700
-34,Mark Andrews,TE,5700
-34,Russell Gage,WR,5100
-35,La'Mical Perine,RB,4000
-35,Donald Parham Jr.,TE,2500
+34,Jalen Hurts,QB,7000
+34,Mike Williams,WR,4500
+34,Chargers,D,3300
+34,Cooper Kupp,WR,6600
+34,Robert Woods,WR,7000
+34,Darrell Henderson Jr.,RB,4500
+34,David Johnson,RB,6100
+35,Cam Sims,WR,3300
+35,Steven Sims Jr.,WR,3000
+35,Logan Thomas,TE,4900
+35,Dwayne Haskins Jr.,QB,5200
+35,Miles Sanders,RB,7000
+35,Austin Ekeler,RB,7600
+35,Robert Woods,WR,7000
 35,Tyreek Hill,WR,9000
-35,Patrick Mahomes,QB,8500
-35,Keelan Cole Sr.,WR,3500
-35,Colts,D,3200
-35,David Montgomery,RB,7700
-35,Calvin Ridley,WR,8500
-35,Brandon Powell,WR,3000
+35,Texans,D,2800
+36,Donald Parham Jr.,TE,2500
 36,Austin Ekeler,RB,7600
 36,Josh Reynolds,WR,3200
-36,Travis Kelce,TE,8500
-36,Chiefs,D,3400
-36,Laviska Shenault Jr.,WR,3700
-36,Darnell Mooney,WR,4000
-36,David Montgomery,RB,7700
-36,Mitchell Trubisky,QB,5700
-36,DJ Moore,WR,5800
+36,Sammy Watkins,WR,5000
+36,Patrick Mahomes,QB,8500
+36,Chris Conley,WR,3000
+36,Nick Chubb,RB,7800
+36,Browns,D,3700
+36,Calvin Ridley,WR,8500
+37,Rashaad Penny,RB,4000
+37,Tyron Johnson,WR,4000
+37,Josh Reynolds,WR,3200
 37,Tyreek Hill,WR,9000
 37,Travis Kelce,TE,8500
-37,Laviska Shenault Jr.,WR,3700
-37,Cowboys,D,2400
+37,Patrick Mahomes,QB,8500
+37,Melvin Gordon III,RB,5600
+37,Broncos,D,2300
 37,Tee Higgins,WR,4700
-37,Giovani Bernard,RB,4800
-37,Trayveon Williams,RB,4000
-37,Ryan Finley,QB,4800
-37,Allen Robinson II,WR,7700
-38,Diontae Johnson,WR,6300
-38,Alshon Jeffery,WR,3200
-38,Jalen Hurts,QB,7000
-38,Austin Ekeler,RB,7600
-38,Robert Woods,WR,7000
-38,Darrell Henderson Jr.,RB,4500
-38,Brandin Cooks,WR,6200
-38,Broncos,D,2300
-38,Mark Andrews,TE,5700
-39,Logan Thomas,TE,4900
-39,Steelers,D,3500
-39,Austin Ekeler,RB,7600
-39,Nyheim Hines,RB,5000
-39,Keke Coutee,WR,5400
-39,Brandin Cooks,WR,6200
-39,Deshaun Watson,QB,7600
-39,Tee Higgins,WR,4700
-39,Giovani Bernard,RB,4800
-40,Cam Sims,WR,3300
-40,Tyreek Hill,WR,9000
-40,Patrick Mahomes,QB,8500
-40,T.Y. Hilton,WR,5500
-40,Harrison Bryant,TE,2500
-40,David Montgomery,RB,7700
-40,Bears,D,3600
-40,DJ Moore,WR,5800
-40,Ito Smith,RB,4000
-41,Logan Thomas,TE,4900
+38,DK Metcalf,WR,7800
+38,Chris Carson,RB,6400
+38,Giants,D,2500
+38,Mike Williams,WR,4500
+38,Justin Herbert,QB,7400
+38,Tyler Higbee,TE,4000
+38,Tee Higgins,WR,4700
+38,David Montgomery,RB,7700
+38,Curtis Samuel,WR,4900
+39,Miles Sanders,RB,7000
+39,Cooper Kupp,WR,6600
+39,Le'Veon Bell,RB,5800
+39,Chiefs,D,3400
+39,Jordan Akins,TE,3300
+39,David Johnson,RB,6100
+39,Allen Robinson II,WR,7700
+39,Darnell Mooney,WR,4000
+39,Mitchell Trubisky,QB,5700
+40,J.D. McKissic,RB,6400
+40,Eagles,D,2900
+40,Austin Ekeler,RB,7600
+40,Gerald Everett,TE,2800
+40,DJ Chark Jr.,WR,4800
+40,Mike Glennon,QB,4800
+40,Brandin Cooks,WR,6200
+40,Amari Cooper,WR,5700
+40,Calvin Ridley,WR,8500
+41,Diontae Johnson,WR,6300
 41,Jalen Reagor,WR,4600
-41,Miles Sanders,RB,7000
 41,Jalen Hurts,QB,7000
-41,Brandin Cooks,WR,6200
-41,Kareem Hunt,RB,5900
-41,Tee Higgins,WR,4700
+41,Cooper Kupp,WR,6600
+41,Tony Pollard,RB,6500
 41,Mark Andrews,TE,5700
 41,Ravens,D,4000
-42,DK Metcalf,WR,7800
-42,Miles Sanders,RB,7000
-42,Evan Engram,TE,3900
-42,Keelan Cole Sr.,WR,3500
-42,Tee Higgins,WR,4700
-42,Giovani Bernard,RB,4800
-42,Bengals,D,2300
-42,Allen Robinson II,WR,7700
-42,Lamar Jackson,QB,8000
-43,Cam Sims,WR,3300
-43,Donald Parham Jr.,TE,2500
-43,Tyreek Hill,WR,9000
-43,Patrick Mahomes,QB,8500
-43,Keelan Cole Sr.,WR,3500
-43,Jonathan Taylor,RB,7300
-43,Texans,D,2800
-43,David Montgomery,RB,7700
-43,Russell Gage,WR,5100
-44,Seahawks,D,2600
+41,Russell Gage,WR,5100
+41,Ito Smith,RB,4000
+42,Tyron Johnson,WR,4000
+42,Austin Ekeler,RB,7600
+42,Chargers,D,3300
+42,CeeDee Lamb,WR,5300
+42,Harrison Bryant,TE,2500
+42,Nick Chubb,RB,7800
+42,Baker Mayfield,QB,6100
+42,David Montgomery,RB,7700
+42,Marquise Brown,WR,5700
+43,Tyler Lockett,WR,6500
+43,Diontae Johnson,WR,6300
+43,Robert Woods,WR,7000
+43,Darrell Henderson Jr.,RB,4500
+43,Malcolm Brown,RB,4000
+43,Jared Goff,QB,5900
+43,Travis Kelce,TE,8500
+43,Broncos,D,2300
+43,Tee Higgins,WR,4700
+44,WAS Football Team,D,3000
+44,Zach Ertz,TE,3100
 44,Miles Sanders,RB,7000
-44,Evan Engram,TE,3900
-44,Tyron Johnson,WR,4000
-44,Justin Herbert,QB,7400
-44,Tee Higgins,WR,4700
-44,Darnell Mooney,WR,4000
-44,David Montgomery,RB,7700
-44,Calvin Ridley,WR,8500
-45,Antonio Gibson,RB,6600
+44,Jalen Hurts,QB,7000
+44,Darius Slayton,WR,3800
+44,Mike Williams,WR,4500
+44,Robert Woods,WR,7000
+44,Tony Pollard,RB,6500
+44,Allen Robinson II,WR,7700
+45,Tyler Lockett,WR,6500
 45,Seahawks,D,2600
-45,Diontae Johnson,WR,6300
-45,Dallas Goedert,TE,3600
-45,Miles Sanders,RB,7000
-45,Jalen Hurts,QB,7000
-45,Robert Woods,WR,7000
-45,Amari Cooper,WR,5700
-45,Michael Gallup,WR,4100
-46,DeSean Jackson,WR,3000
-46,Jamison Crowder,WR,4500
-46,Robert Woods,WR,7000
-46,Tony Pollard,RB,6500
+45,Mike Williams,WR,4500
+45,Tyler Higbee,TE,4000
+45,Darrell Henderson Jr.,RB,4500
+45,Demarcus Robinson,WR,3900
+45,Patrick Mahomes,QB,8500
+45,Allen Robinson II,WR,7700
+45,David Montgomery,RB,7700
+46,Tyler Lockett,WR,6500
+46,Diontae Johnson,WR,6300
+46,Dallas Goedert,TE,3600
+46,Miles Sanders,RB,7000
+46,Jalen Hurts,QB,7000
+46,CeeDee Lamb,WR,5300
 46,Browns,D,3700
-46,Cole Kmet,TE,3000
-46,David Montgomery,RB,7700
-46,Mitchell Trubisky,QB,5700
-46,Calvin Ridley,WR,8500
-47,Evan Engram,TE,3900
-47,Austin Ekeler,RB,7600
-47,Brandin Cooks,WR,6200
-47,Chad Hansen,WR,4400
-47,David Johnson,RB,6100
-47,Deshaun Watson,QB,7600
-47,Tee Higgins,WR,4700
-47,Mike Davis,RB,6500
-47,Panthers,D,2700
-48,Antonio Gibson,RB,6600
-48,Malcolm Brown,RB,4000
-48,Rams,D,3100
-48,Allen Robinson II,WR,7700
-48,Darnell Mooney,WR,4000
-48,David Montgomery,RB,7700
-48,Mitchell Trubisky,QB,5700
-48,Robby Anderson,WR,5500
-48,Mark Andrews,TE,5700
-49,Giants,D,2500
-49,Malcolm Brown,RB,4000
-49,Travis Kelce,TE,8500
-49,David Johnson,RB,6100
-49,Alex Erickson,WR,3000
-49,Giovani Bernard,RB,4800
-49,Ryan Finley,QB,4800
+46,Giovani Bernard,RB,4800
+46,Robby Anderson,WR,5500
+47,Cam Sims,WR,3300
+47,Cooper Kupp,WR,6600
+47,Tyreek Hill,WR,9000
+47,Patrick Mahomes,QB,8500
+47,Cowboys,D,2400
+47,Giovani Bernard,RB,4800
+47,Robby Anderson,WR,5500
+47,J.K. Dobbins,RB,6200
+47,Hayden Hurst,TE,3400
+48,Diontae Johnson,WR,6300
+48,Dallas Goedert,TE,3600
+48,Miles Sanders,RB,7000
+48,Jalen Hurts,QB,7000
+48,Denzel Mims,WR,3600
+48,Austin Ekeler,RB,7600
+48,David Johnson,RB,6100
+48,Texans,D,2800
+48,DJ Moore,WR,5800
+49,Diontae Johnson,WR,6300
+49,Eagles,D,2900
+49,Jack Doyle,TE,2800
+49,Tim Patrick,WR,4200
+49,Drew Lock,QB,5000
+49,Ezekiel Elliott,RB,6700
+49,Kareem Hunt,RB,5900
 49,Allen Robinson II,WR,7700
 49,Calvin Ridley,WR,8500
-50,Miles Sanders,RB,7000
-50,Jamison Crowder,WR,4500
-50,Cooper Kupp,WR,6600
-50,Travis Kelce,TE,8500
-50,Brandin Cooks,WR,6200
-50,Melvin Gordon III,RB,5600
-50,Marvin Hall,WR,3000
-50,Baker Mayfield,QB,6100
-50,Bengals,D,2300
-51,Eagles,D,2900
-51,Sterling Shepard,WR,4500
-51,Darrell Henderson Jr.,RB,4500
-51,Tyreek Hill,WR,9000
+50,Zach Ertz,TE,3100
+50,Mike Williams,WR,4500
+50,Tyreek Hill,WR,9000
+50,Sammy Watkins,WR,5000
+50,Le'Veon Bell,RB,5800
+50,Patrick Mahomes,QB,8500
+50,Colts,D,3200
+50,Kareem Hunt,RB,5900
+50,Giovani Bernard,RB,4800
+51,Seahawks,D,2600
+51,Miles Sanders,RB,7000
+51,Darius Slayton,WR,3800
+51,Sammy Watkins,WR,5000
+51,Travis Kelce,TE,8500
 51,Patrick Mahomes,QB,8500
-51,David Johnson,RB,6100
-51,DJ Moore,WR,5800
-51,Russell Gage,WR,5100
-51,Hayden Hurst,TE,3400
-52,Steelers,D,3500
-52,Alshon Jeffery,WR,3200
-52,Jalen Hurts,QB,7000
-52,Breshad Perriman,WR,3800
-52,Robert Woods,WR,7000
-52,Tyreek Hill,WR,9000
+51,Jerry Jeudy,WR,3700
+51,Amari Cooper,WR,5700
+51,Giovani Bernard,RB,4800
+52,Cooper Kupp,WR,6600
 52,Travis Kelce,TE,8500
-52,Dare Ogunbowale,RB,4000
-52,Royce Freeman,RB,4000
-53,Steven Sims Jr.,WR,3000
-53,Austin Ekeler,RB,7600
-53,Josh Reynolds,WR,3200
-53,Jared Goff,QB,5900
+52,Le'Veon Bell,RB,5800
+52,Patrick Mahomes,QB,8500
+52,Amari Cooper,WR,5700
+52,CeeDee Lamb,WR,5300
+52,Cowboys,D,2400
+52,Cordarrelle Patterson,WR,3000
+52,Brian Hill,RB,4000
+53,Kalen Ballage,RB,4000
+53,Tyreek Hill,WR,9000
 53,Travis Kelce,TE,8500
-53,CeeDee Lamb,WR,5300
-53,David Montgomery,RB,7700
-53,Bears,D,3600
-53,Russell Gage,WR,5100
-54,WAS Football Team,D,3000
-54,Diontae Johnson,WR,6300
-54,Kaden Smith,TE,2500
-54,Ezekiel Elliott,RB,6700
-54,Allen Robinson II,WR,7700
-54,DJ Moore,WR,5800
-54,Marquise Brown,WR,5700
-54,Lamar Jackson,QB,8000
-54,Ito Smith,RB,4000
+53,Le'Veon Bell,RB,5800
+53,Patrick Mahomes,QB,8500
+53,Marvin Hall,WR,3000
+53,Browns,D,3700
+53,Willie Snead IV,WR,3900
+53,Hayden Hurst,TE,3400
+54,JuJu Smith-Schuster,WR,6000
+54,DeSean Jackson,WR,3000
+54,Jalen Hurts,QB,7000
+54,Austin Ekeler,RB,7600
+54,Sammy Watkins,WR,5000
+54,Colts,D,3200
+54,Noah Fant,TE,4800
+54,Giovani Bernard,RB,4800
+54,Calvin Ridley,WR,8500
+55,Robert Woods,WR,7000
+55,Le'Veon Bell,RB,5800
+55,Keelan Cole Sr.,WR,3500
 55,Tyler Eifert,TE,3000
+55,Gardner Minshew II,QB,5200
+55,Brandin Cooks,WR,6200
 55,Texans,D,2800
-55,Tee Higgins,WR,4700
-55,Allen Robinson II,WR,7700
 55,David Montgomery,RB,7700
-55,Mitchell Trubisky,QB,5700
-55,DJ Moore,WR,5800
 55,Calvin Ridley,WR,8500
-55,Ito Smith,RB,4000
+56,Miles Sanders,RB,7000
 56,Tyreek Hill,WR,9000
-56,Tyler Eifert,TE,3000
-56,David Johnson,RB,6100
-56,Amari Cooper,WR,5700
-56,Giovani Bernard,RB,4800
-56,Bengals,D,2300
+56,DJ Chark Jr.,WR,4800
+56,Nick Chubb,RB,7800
+56,Browns,D,3700
+56,Anthony Miller,WR,3200
+56,Cole Kmet,TE,3000
 56,Mitchell Trubisky,QB,5700
-56,Curtis Samuel,WR,4900
-56,Calvin Ridley,WR,8500
+56,DJ Moore,WR,5800
 57,Diontae Johnson,WR,6300
-57,Jalen Reagor,WR,4600
-57,Tyreek Hill,WR,9000
-57,Dare Ogunbowale,RB,4000
+57,Sammy Watkins,WR,5000
 57,Amari Cooper,WR,5700
-57,Browns,D,3700
-57,Cole Kmet,TE,3000
+57,Giovani Bernard,RB,4800
 57,David Montgomery,RB,7700
-57,Mitchell Trubisky,QB,5700
-58,Jamison Crowder,WR,4500
-58,Tyreek Hill,WR,9000
-58,DJ Chark Jr.,WR,4800
-58,Nick Chubb,RB,7800
-58,Kareem Hunt,RB,5900
-58,Baker Mayfield,QB,6100
-58,Bengals,D,2300
-58,DJ Moore,WR,5800
-58,Hayden Hurst,TE,3400
-59,Diontae Johnson,WR,6300
-59,Jets,D,2000
-59,Travis Kelce,TE,8500
-59,Le'Veon Bell,RB,5800
-59,Keelan Cole Sr.,WR,3500
-59,Harrison Bryant,TE,2500
-59,Allen Robinson II,WR,7700
+57,Bears,D,3600
+57,Miles Boykin,WR,3100
+57,Mark Andrews,TE,5700
+57,Lamar Jackson,QB,8000
+58,Miles Sanders,RB,7000
+58,Robert Woods,WR,7000
+58,Travis Kelce,TE,8500
+58,Texans,D,2800
+58,Melvin Gordon III,RB,5600
+58,Michael Gallup,WR,4100
+58,Robby Anderson,WR,5500
+58,Rodney Smith,RB,4000
+58,Teddy Bridgewater,QB,5300
+59,Steven Sims Jr.,WR,3000
+59,Tyler Lockett,WR,6500
+59,Zach Ertz,TE,3100
+59,Miles Sanders,RB,7000
+59,Jalen Hurts,QB,7000
+59,Mike Williams,WR,4500
 59,David Montgomery,RB,7700
-59,Mitchell Trubisky,QB,5700
+59,Panthers,D,2700
+59,Calvin Ridley,WR,8500
+60,Jalen Reagor,WR,4600
 60,Jalen Hurts,QB,7000
-60,Mike Williams,WR,4500
-60,Donald Parham Jr.,TE,2500
-60,Darrell Henderson Jr.,RB,4500
-60,Jonathan Taylor,RB,7300
+60,Le'Veon Bell,RB,5800
+60,Keke Coutee,WR,5400
+60,Scottie Phillips,RB,4000
 60,CeeDee Lamb,WR,5300
-60,Tony Pollard,RB,6500
 60,Browns,D,3700
+60,Mark Andrews,TE,5700
 60,Calvin Ridley,WR,8500
-61,DK Metcalf,WR,7800
-61,Russell Wilson,QB,7300
-61,Austin Ekeler,RB,7600
-61,Robert Woods,WR,7000
-61,Rams,D,3100
-61,Tim Patrick,WR,4200
-61,Noah Fant,TE,4800
-61,Giovani Bernard,RB,4800
-61,Miles Boykin,WR,3100
-62,Dallas Goedert,TE,3600
-62,Zach Ertz,TE,3100
-62,Miles Sanders,RB,7000
+61,Cam Sims,WR,3300
+61,Tyreek Hill,WR,9000
+61,Patrick Mahomes,QB,8500
+61,Marvin Hall,WR,3000
+61,Austin Hooper,TE,3500
+61,Nick Chubb,RB,7800
+61,Trayveon Williams,RB,4000
+61,Bengals,D,2300
+61,Calvin Ridley,WR,8500
+62,Eric Ebron,TE,4200
+62,Jalen Reagor,WR,4600
 62,Jalen Hurts,QB,7000
-62,Chargers,D,3300
-62,Tyreek Hill,WR,9000
-62,Sammy Watkins,WR,5000
-62,Michael Gallup,WR,4100
-62,David Montgomery,RB,7700
-63,Chris Carson,RB,6400
-63,Sammy Watkins,WR,5000
-63,Travis Kelce,TE,8500
-63,Patrick Mahomes,QB,8500
-63,Laviska Shenault Jr.,WR,3700
-63,Michael Gallup,WR,4100
-63,Nick Chubb,RB,7800
-63,Darnell Mooney,WR,4000
-63,Falcons,D,1900
-64,Logan Thomas,TE,4900
-64,Austin Ekeler,RB,7600
-64,Tyreek Hill,WR,9000
-64,Jaguars,D,2200
-64,Chad Hansen,WR,4400
-64,Drew Lock,QB,5000
-64,Marvin Hall,WR,3000
-64,Nick Chubb,RB,7800
-64,DJ Moore,WR,5800
-65,Diontae Johnson,WR,6300
-65,Chase Claypool,WR,5900
-65,Ben Roethlisberger,QB,6400
-65,Dallas Goedert,TE,3600
-65,Jamison Crowder,WR,4500
-65,Travis Kelce,TE,8500
-65,Jonathan Taylor,RB,7300
-65,Nyheim Hines,RB,5000
-65,Bengals,D,2300
-66,Chase Claypool,WR,5900
-66,Darius Slayton,WR,3800
-66,Daniel Jones,QB,5000
-66,Austin Ekeler,RB,7600
-66,Michael Gallup,WR,4100
+62,Darrell Henderson Jr.,RB,4500
+62,Allen Robinson II,WR,7700
+62,Rodney Smith,RB,4000
+62,Ravens,D,4000
+62,Calvin Ridley,WR,8500
+62,Russell Gage,WR,5100
+63,Antonio Gibson,RB,6600
+63,Eric Ebron,TE,4200
+63,Chargers,D,3300
+63,Tyreek Hill,WR,9000
+63,Jonathan Taylor,RB,7300
+63,CeeDee Lamb,WR,5300
+63,A.J. Green,WR,3400
+63,Ryan Finley,QB,4800
+63,DJ Moore,WR,5800
+64,David Moore,WR,3200
+64,Miles Sanders,RB,7000
+64,Cooper Kupp,WR,6600
+64,Robert Woods,WR,7000
+64,Tyler Higbee,TE,4000
+64,Jared Goff,QB,5900
+64,Texans,D,2800
+64,Melvin Gordon III,RB,5600
+64,David Montgomery,RB,7700
+65,Cam Sims,WR,3300
+65,Miles Sanders,RB,7000
+65,Tyron Johnson,WR,4000
+65,Nick Chubb,RB,7800
+65,Tee Higgins,WR,4700
+65,Allen Robinson II,WR,7700
+65,Mitchell Trubisky,QB,5700
+65,Mark Andrews,TE,5700
+65,Ravens,D,4000
+66,Jalen Reagor,WR,4600
+66,Miles Sanders,RB,7000
+66,Jalen Hurts,QB,7000
+66,Mike Williams,WR,4500
+66,Texans,D,2800
+66,Austin Hooper,TE,3500
+66,Nick Chubb,RB,7800
+66,Tee Higgins,WR,4700
 66,David Montgomery,RB,7700
-66,DJ Moore,WR,5800
-66,Mark Andrews,TE,5700
-66,Ravens,D,4000
-67,Diontae Johnson,WR,6300
-67,Steelers,D,3500
-67,Dallas Goedert,TE,3600
 67,Miles Sanders,RB,7000
-67,Jalen Hurts,QB,7000
-67,Austin Ekeler,RB,7600
-67,DJ Chark Jr.,WR,4800
-67,CeeDee Lamb,WR,5300
-67,Tee Higgins,WR,4700
-68,Diontae Johnson,WR,6300
-68,Chase Claypool,WR,5900
-68,Miles Sanders,RB,7000
+67,Chargers,D,3300
+67,Cooper Kupp,WR,6600
+67,Darrell Henderson Jr.,RB,4500
+67,Keke Coutee,WR,5400
+67,Brandin Cooks,WR,6200
+67,Amari Cooper,WR,5700
+67,Andy Dalton,QB,5500
+67,Mark Andrews,TE,5700
+68,Evan Engram,TE,3900
+68,Austin Ekeler,RB,7600
 68,Chargers,D,3300
+68,Cooper Kupp,WR,6600
 68,Le'Veon Bell,RB,5800
-68,Gardner Minshew II,QB,5200
-68,Keke Coutee,WR,5400
-68,Mark Andrews,TE,5700
-68,Russell Gage,WR,5100
-69,Robert Woods,WR,7000
+68,CeeDee Lamb,WR,5300
+68,Nick Chubb,RB,7800
+68,Mitchell Trubisky,QB,5700
+68,Willie Snead IV,WR,3900
+69,WAS Football Team,D,3000
+69,Denzel Mims,WR,3600
+69,Sam Darnold,QB,5000
+69,Jalen Guyton,WR,3200
 69,Travis Kelce,TE,8500
-69,Chiefs,D,3400
-69,DJ Chark Jr.,WR,4800
-69,Laviska Shenault Jr.,WR,3700
-69,Melvin Gordon III,RB,5600
-69,Tee Higgins,WR,4700
-69,Mitchell Trubisky,QB,5700
-69,J.K. Dobbins,RB,6200
-70,Chris Carson,RB,6400
-70,Miles Sanders,RB,7000
-70,Cooper Kupp,WR,6600
-70,Gerald Everett,TE,2800
-70,Malcolm Brown,RB,4000
-70,Jared Goff,QB,5900
-70,Texans,D,2800
-70,DJ Moore,WR,5800
-70,Calvin Ridley,WR,8500
-71,Breshad Perriman,WR,3800
-71,Texans,D,2800
-71,Amari Cooper,WR,5700
-71,Austin Hooper,TE,3500
-71,Nick Chubb,RB,7800
-71,Baker Mayfield,QB,6100
-71,Curtis Samuel,WR,4900
-71,Mike Davis,RB,6500
-71,Calvin Ridley,WR,8500
-72,Mike Williams,WR,4500
+69,Le'Veon Bell,RB,5800
+69,Jonathan Taylor,RB,7300
+69,Allen Robinson II,WR,7700
+69,Robby Anderson,WR,5500
+70,Steelers,D,3500
+70,Greg Ward,WR,4000
+70,Jalen Hurts,QB,7000
+70,Breshad Perriman,WR,3800
+70,Tyler Higbee,TE,4000
+70,Brandin Cooks,WR,6200
+70,Kareem Hunt,RB,5900
+70,Allen Robinson II,WR,7700
+70,David Montgomery,RB,7700
+71,Logan Thomas,TE,4900
+71,Austin Ekeler,RB,7600
+71,Keke Coutee,WR,5400
+71,Brandin Cooks,WR,6200
+71,Deshaun Watson,QB,7600
+71,Noah Fant,TE,4800
+71,Browns,D,3700
+71,Tee Higgins,WR,4700
+71,Todd Gurley II,RB,4700
+72,Eric Ebron,TE,4200
 72,Austin Ekeler,RB,7600
-72,Gerald Everett,TE,2800
-72,Broncos,D,2300
+72,Tyreek Hill,WR,9000
+72,Sammy Watkins,WR,5000
+72,DJ Chark Jr.,WR,4800
+72,Mike Glennon,QB,4800
+72,Texans,D,2800
 72,CeeDee Lamb,WR,5300
-72,David Montgomery,RB,7700
-72,Marquise Brown,WR,5700
-72,Mark Andrews,TE,5700
-72,Lamar Jackson,QB,8000
-73,Cam Sims,WR,3300
-73,Antonio Gibson,RB,6600
-73,Dwayne Haskins Jr.,QB,5200
-73,Diontae Johnson,WR,6300
-73,Travis Kelce,TE,8500
-73,Austin Hooper,TE,3500
-73,Browns,D,3700
+72,J.K. Dobbins,RB,6200
+73,Dallas Goedert,TE,3600
+73,Zach Ertz,TE,3100
+73,Miles Sanders,RB,7000
+73,Jalen Hurts,QB,7000
+73,Robert Woods,WR,7000
+73,Brandin Cooks,WR,6200
+73,Broncos,D,2300
 73,David Montgomery,RB,7700
-73,Curtis Samuel,WR,4900
-74,Logan Thomas,TE,4900
-74,Greg Ward,WR,4000
-74,Alshon Jeffery,WR,3200
-74,Chargers,D,3300
+73,DJ Moore,WR,5800
+74,James Conner,RB,5800
+74,Donald Parham Jr.,TE,2500
 74,Tyreek Hill,WR,9000
-74,Le'Veon Bell,RB,5800
+74,Sammy Watkins,WR,5000
 74,Patrick Mahomes,QB,8500
-74,David Montgomery,RB,7700
-74,Hayden Hurst,TE,3400
-75,Chris Carson,RB,6400
-75,Robert Woods,WR,7000
-75,Jared Goff,QB,5900
-75,Laviska Shenault Jr.,WR,3700
-75,Amari Cooper,WR,5700
-75,Cowboys,D,2400
-75,David Montgomery,RB,7700
-75,Robby Anderson,WR,5500
-75,Mark Andrews,TE,5700
+74,Broncos,D,2300
+74,D'Ernest Johnson,RB,4000
+74,Darnell Mooney,WR,4000
+74,Calvin Ridley,WR,8500
+75,Antonio Gibson,RB,6600
+75,Travis Kelce,TE,8500
+75,Le'Veon Bell,RB,5800
+75,Royce Freeman,RB,4000
+75,Browns,D,3700
+75,Tee Higgins,WR,4700
+75,A.J. Green,WR,3400
+75,Ryan Finley,QB,4800
+75,Calvin Ridley,WR,8500
+76,Mike Williams,WR,4500
+76,Austin Ekeler,RB,7600
+76,Cooper Kupp,WR,6600
+76,Robert Woods,WR,7000
+76,Darrell Henderson Jr.,RB,4500
+76,Jared Goff,QB,5900
+76,Tyler Eifert,TE,3000
 76,Colts,D,3200
-76,Noah Fant,TE,4800
-76,CeeDee Lamb,WR,5300
-76,Michael Gallup,WR,4100
-76,Andy Dalton,QB,5500
-76,Giovani Bernard,RB,4800
 76,David Montgomery,RB,7700
-76,DJ Moore,WR,5800
-76,Calvin Ridley,WR,8500
-77,Diontae Johnson,WR,6300
-77,Mike Williams,WR,4500
-77,Austin Ekeler,RB,7600
-77,Le'Veon Bell,RB,5800
-77,T.Y. Hilton,WR,5500
-77,Philip Rivers,QB,5600
-77,Noah Fant,TE,4800
-77,Robby Anderson,WR,5500
-77,Ravens,D,4000
-78,Sterling Shepard,WR,4500
-78,Darius Slayton,WR,3800
+77,Sterling Shepard,WR,4500
+77,Justin Herbert,QB,7400
+77,Travis Kelce,TE,8500
+77,Devine Ozigbo,RB,4000
+77,Texans,D,2800
+77,Ezekiel Elliott,RB,6700
+77,Tee Higgins,WR,4700
+77,Allen Robinson II,WR,7700
+77,Hayden Hurst,TE,3400
+78,Antonio Gibson,RB,6600
+78,Diontae Johnson,WR,6300
 78,Austin Ekeler,RB,7600
-78,Travis Kelce,TE,8500
+78,Laviska Shenault Jr.,WR,3700
 78,Colts,D,3200
+78,Noah Fant,TE,4800
+78,Allen Robinson II,WR,7700
 78,Darnell Mooney,WR,4000
-78,Calvin Ridley,WR,8500
-78,Brian Hill,RB,4000
-78,Matt Ryan,QB,5800
-79,Miles Sanders,RB,7000
-79,Darius Slayton,WR,3800
+78,Mitchell Trubisky,QB,5700
+79,Antonio Gibson,RB,6600
+79,Greg Ward,WR,4000
+79,Dallas Goedert,TE,3600
+79,Jalen Hurts,QB,7000
 79,Tyreek Hill,WR,9000
-79,Patrick Mahomes,QB,8500
-79,Keelan Cole Sr.,WR,3500
-79,Texans,D,2800
-79,Tee Higgins,WR,4700
-79,Cole Kmet,TE,3000
+79,Darrel Williams,RB,4200
+79,Michael Gallup,WR,4100
+79,Browns,D,3700
 79,David Montgomery,RB,7700
-80,DK Metcalf,WR,7800
-80,David Moore,WR,3200
-80,Carlos Hyde,RB,5300
-80,Russell Wilson,QB,7300
-80,Darrell Henderson Jr.,RB,4500
-80,Travis Kelce,TE,8500
-80,T.Y. Hilton,WR,5500
-80,Broncos,D,2300
-80,Robby Anderson,WR,5500
-81,Denzel Mims,WR,3600
-81,Tyler Higbee,TE,4000
+80,Travis Fulgham,WR,3500
+80,Austin Ekeler,RB,7600
+80,Cooper Kupp,WR,6600
+80,Gerald Everett,TE,2800
+80,Tyreek Hill,WR,9000
+80,Mecole Hardman,WR,3100
+80,Patrick Mahomes,QB,8500
+80,Giovani Bernard,RB,4800
+80,Ravens,D,4000
+81,Miles Sanders,RB,7000
+81,Jets,D,2000
 81,Tyreek Hill,WR,9000
 81,Patrick Mahomes,QB,8500
-81,Laviska Shenault Jr.,WR,3700
-81,Nyheim Hines,RB,5000
-81,Texans,D,2800
-81,Amari Cooper,WR,5700
-81,David Montgomery,RB,7700
-82,Tyler Lockett,WR,6500
-82,Alshon Jeffery,WR,3200
-82,Dallas Goedert,TE,3600
-82,Jalen Hurts,QB,7000
-82,Le'Veon Bell,RB,5800
-82,CeeDee Lamb,WR,5300
-82,Nick Chubb,RB,7800
+81,Chad Hansen,WR,4400
+81,A.J. Green,WR,3400
+81,Curtis Samuel,WR,4900
+81,Mark Andrews,TE,5700
+81,Todd Gurley II,RB,4700
+82,Logan Thomas,TE,4900
+82,WAS Football Team,D,3000
+82,James Conner,RB,5800
+82,Mike Williams,WR,4500
+82,Austin Ekeler,RB,7600
+82,Patrick Mahomes,QB,8500
+82,Tee Higgins,WR,4700
+82,Alex Erickson,WR,3000
 82,David Montgomery,RB,7700
-82,Panthers,D,2700
-83,Travis Kelce,TE,8500
+83,Mike Williams,WR,4500
+83,Tyler Higbee,TE,4000
+83,Tyreek Hill,WR,9000
+83,Le'Veon Bell,RB,5800
+83,Patrick Mahomes,QB,8500
 83,Devine Ozigbo,RB,4000
-83,Tee Higgins,WR,4700
-83,Bengals,D,2300
-83,Anthony Miller,WR,3200
-83,David Montgomery,RB,7700
-83,Mitchell Trubisky,QB,5700
-83,Calvin Ridley,WR,8500
-83,Russell Gage,WR,5100
-84,Cam Sims,WR,3300
-84,JuJu Smith-Schuster,WR,6000
-84,Donald Parham Jr.,TE,2500
-84,Darrell Henderson Jr.,RB,4500
-84,Tyreek Hill,WR,9000
-84,Patrick Mahomes,QB,8500
-84,Bears,D,3600
-84,Calvin Ridley,WR,8500
-84,Ito Smith,RB,4000
-85,Dallas Goedert,TE,3600
+83,Jaguars,D,2200
+83,DJ Moore,WR,5800
+83,J.K. Dobbins,RB,6200
+84,Tyler Lockett,WR,6500
+84,Jalen Guyton,WR,3200
+84,Austin Ekeler,RB,7600
+84,T.Y. Hilton,WR,5500
+84,Philip Rivers,QB,5600
+84,Noah Fant,TE,4800
+84,CeeDee Lamb,WR,5300
+84,Browns,D,3700
+84,David Montgomery,RB,7700
+85,Logan Thomas,TE,4900
+85,Antonio Gibson,RB,6600
+85,J.D. McKissic,RB,6400
+85,Dwayne Haskins Jr.,QB,5200
+85,Diontae Johnson,WR,6300
 85,Miles Sanders,RB,7000
-85,Jalen Hurts,QB,7000
-85,Robert Woods,WR,7000
-85,Rams,D,3100
-85,Le'Veon Bell,RB,5800
-85,Alex Erickson,WR,3000
-85,Allen Robinson II,WR,7700
-85,Robby Anderson,WR,5500
-86,Rashaad Penny,RB,4000
-86,Tyreek Hill,WR,9000
-86,Travis Kelce,TE,8500
-86,Le'Veon Bell,RB,5800
-86,Brandin Cooks,WR,6200
-86,Tee Higgins,WR,4700
-86,Samaje Perine,RB,4000
-86,Ryan Finley,QB,4800
-86,Panthers,D,2700
-87,WAS Football Team,D,3000
-87,Jamison Crowder,WR,4500
-87,Tyreek Hill,WR,9000
-87,Chad Hansen,WR,4400
-87,David Johnson,RB,6100
-87,Deshaun Watson,QB,7600
-87,Tee Higgins,WR,4700
-87,Cole Kmet,TE,3000
+85,Mike Williams,WR,4500
+85,T.Y. Hilton,WR,5500
+85,Colts,D,3200
+86,Logan Thomas,TE,4900
+86,Tyler Lockett,WR,6500
+86,Mike Williams,WR,4500
+86,Austin Ekeler,RB,7600
+86,Jared Goff,QB,5900
+86,Michael Pittman Jr.,WR,4200
+86,Tony Pollard,RB,6500
+86,David Montgomery,RB,7700
+86,Falcons,D,1900
+87,Diontae Johnson,WR,6300
+87,Mike Williams,WR,4500
+87,Gerald Everett,TE,2800
+87,Darrell Henderson Jr.,RB,4500
+87,Jared Goff,QB,5900
+87,Travis Kelce,TE,8500
+87,Amari Cooper,WR,5700
 87,David Montgomery,RB,7700
-88,Benny Snell Jr.,RB,5300
-88,Robert Woods,WR,7000
+87,Ravens,D,4000
+88,Antonio Gibson,RB,6600
+88,Diontae Johnson,WR,6300
+88,Ray-Ray McCloud III,WR,3000
 88,Darrell Henderson Jr.,RB,4500
-88,Jared Goff,QB,5900
-88,Travis Kelce,TE,8500
-88,Le'Veon Bell,RB,5800
-88,Jaguars,D,2200
-88,Robby Anderson,WR,5500
-88,Russell Gage,WR,5100
+88,Patrick Mahomes,QB,8500
+88,Austin Hooper,TE,3500
+88,David Montgomery,RB,7700
+88,Marquise Brown,WR,5700
+88,Ravens,D,4000
 89,WAS Football Team,D,3000
-89,Miles Sanders,RB,7000
-89,Mike Williams,WR,4500
-89,Donald Parham Jr.,TE,2500
+89,Darrell Henderson Jr.,RB,4500
+89,Zach Pascal,WR,3800
 89,Jonathan Taylor,RB,7300
-89,Tee Higgins,WR,4700
-89,Ryan Finley,QB,4800
+89,Philip Rivers,QB,5600
+89,Noah Fant,TE,4800
 89,Allen Robinson II,WR,7700
-89,Calvin Ridley,WR,8500
-90,Peyton Barber,RB,4400
-90,Chargers,D,3300
-90,Sammy Watkins,WR,5000
+89,David Montgomery,RB,7700
+89,Robby Anderson,WR,5500
+90,Cam Sims,WR,3300
+90,WAS Football Team,D,3000
+90,James Conner,RB,5800
+90,Evan Engram,TE,3900
+90,Tyreek Hill,WR,9000
 90,Travis Kelce,TE,8500
-90,Keke Coutee,WR,5400
-90,Deshaun Watson,QB,7600
-90,Marvin Hall,WR,3000
+90,Philip Rivers,QB,5600
 90,Giovani Bernard,RB,4800
-90,Allen Robinson II,WR,7700
-91,Dion Lewis,RB,4000
-91,Mike Williams,WR,4500
-91,Chargers,D,3300
-91,Jared Goff,QB,5900
-91,Travis Kelce,TE,8500
-91,Darrel Williams,RB,4200
+90,DJ Moore,WR,5800
+91,Dallas Goedert,TE,3600
+91,Miles Sanders,RB,7000
+91,Jalen Hurts,QB,7000
 91,Keke Coutee,WR,5400
-91,Brandin Cooks,WR,6200
-91,Allen Robinson II,WR,7700
-92,JuJu Smith-Schuster,WR,6000
-92,Chargers,D,3300
-92,Darrell Henderson Jr.,RB,4500
-92,Tyreek Hill,WR,9000
+91,Texans,D,2800
+91,Tim Patrick,WR,4200
+91,J.K. Dobbins,RB,6200
+91,Calvin Ridley,WR,8500
+91,Russell Gage,WR,5100
 92,Travis Kelce,TE,8500
-92,Laviska Shenault Jr.,WR,3700
-92,Mike Glennon,QB,4800
-92,Amari Cooper,WR,5700
-92,Gus Edwards,RB,4400
-93,Jamison Crowder,WR,4500
-93,Darrell Henderson Jr.,RB,4500
-93,Sammy Watkins,WR,5000
+92,Le'Veon Bell,RB,5800
+92,Patrick Mahomes,QB,8500
+92,Keelan Cole Sr.,WR,3500
+92,Jaguars,D,2200
+92,Royce Freeman,RB,4000
+92,Marvin Hall,WR,3000
+92,Kareem Hunt,RB,5900
+92,Calvin Ridley,WR,8500
+93,Jets,D,2000
+93,Mike Williams,WR,4500
+93,Robert Woods,WR,7000
 93,Travis Kelce,TE,8500
-93,Patrick Mahomes,QB,8500
-93,Austin Hooper,TE,3500
-93,Tee Higgins,WR,4700
-93,David Montgomery,RB,7700
-93,Panthers,D,2700
-94,Logan Thomas,TE,4900
-94,Diontae Johnson,WR,6300
-94,Jamison Crowder,WR,4500
-94,Austin Ekeler,RB,7600
-94,Travis Kelce,TE,8500
-94,Colts,D,3200
-94,Marvin Hall,WR,3000
-94,Kareem Hunt,RB,5900
-94,Baker Mayfield,QB,6100
-95,WAS Football Team,D,3000
-95,Tyreek Hill,WR,9000
-95,Travis Kelce,TE,8500
-95,Dare Ogunbowale,RB,4000
-95,Anthony Miller,WR,3200
-95,Cole Kmet,TE,3000
+93,Dare Ogunbowale,RB,4000
+93,DJ Moore,WR,5800
+93,Rodney Smith,RB,4000
+93,Teddy Bridgewater,QB,5300
+93,Calvin Ridley,WR,8500
+94,Zach Ertz,TE,3100
+94,Miles Sanders,RB,7000
+94,Jalen Hurts,QB,7000
+94,Darrell Henderson Jr.,RB,4500
+94,Brandin Cooks,WR,6200
+94,CeeDee Lamb,WR,5300
+94,Browns,D,3700
+94,David Montgomery,RB,7700
+94,Robby Anderson,WR,5500
+95,Logan Thomas,TE,4900
+95,DK Metcalf,WR,7800
+95,James Conner,RB,5800
+95,Keke Coutee,WR,5400
+95,Cowboys,D,2400
 95,David Montgomery,RB,7700
 95,Robby Anderson,WR,5500
-95,Matt Ryan,QB,5800
-96,Seahawks,D,2600
+95,Teddy Bridgewater,QB,5300
+95,Russell Gage,WR,5100
+96,Chase Claypool,WR,5900
+96,Dallas Goedert,TE,3600
+96,Miles Sanders,RB,7000
+96,Jalen Hurts,QB,7000
 96,Cooper Kupp,WR,6600
-96,Travis Kelce,TE,8500
-96,David Johnson,RB,6100
-96,Tony Pollard,RB,6500
-96,Tee Higgins,WR,4700
-96,Giovani Bernard,RB,4800
-96,Ryan Finley,QB,4800
+96,Texans,D,2800
+96,Amari Cooper,WR,5700
+96,J.K. Dobbins,RB,6200
 96,Russell Gage,WR,5100
-97,Darius Slayton,WR,3800
-97,Kalen Ballage,RB,4000
-97,Sammy Watkins,WR,5000
-97,Travis Kelce,TE,8500
-97,Le'Veon Bell,RB,5800
-97,Bengals,D,2300
-97,Willie Snead IV,WR,3900
-97,Lamar Jackson,QB,8000
-97,Calvin Ridley,WR,8500
-98,Greg Olsen,TE,2500
-98,Austin Ekeler,RB,7600
-98,Brandin Cooks,WR,6200
-98,C.J. Prosise,RB,4000
-98,Deshaun Watson,QB,7600
+97,Antonio Gandy-Golden,WR,3000
+97,Donald Parham Jr.,TE,2500
+97,Austin Ekeler,RB,7600
+97,CeeDee Lamb,WR,5300
+97,Nick Chubb,RB,7800
+97,Allen Robinson II,WR,7700
+97,David Montgomery,RB,7700
+97,Mitchell Trubisky,QB,5700
+97,Panthers,D,2700
+98,J.D. McKissic,RB,6400
+98,Dallas Goedert,TE,3600
+98,Miles Sanders,RB,7000
+98,Sterling Shepard,WR,4500
+98,Mike Williams,WR,4500
+98,Justin Herbert,QB,7400
+98,Texans,D,2800
 98,Amari Cooper,WR,5700
-98,Tee Higgins,WR,4700
-98,David Montgomery,RB,7700
-98,Bears,D,3600
-99,Antonio Gibson,RB,6600
-99,Miles Sanders,RB,7000
-99,Jalen Guyton,WR,3200
-99,Sammy Watkins,WR,5000
-99,Colts,D,3200
-99,Tee Higgins,WR,4700
-99,Mark Andrews,TE,5700
-99,J.K. Dobbins,RB,6200
-99,Lamar Jackson,QB,8000
-100,Tyler Lockett,WR,6500
-100,Chris Carson,RB,6400
-100,Diontae Johnson,WR,6300
-100,Chargers,D,3300
-100,Keke Coutee,WR,5400
-100,Noah Fant,TE,4800
-100,Melvin Gordon III,RB,5600
-100,Drew Lock,QB,5000
-100,Ezekiel Elliott,RB,6700
-101,Miles Sanders,RB,7000
-101,Eagles,D,2900
-101,Darius Slayton,WR,3800
-101,Malcolm Brown,RB,4000
-101,Patrick Mahomes,QB,8500
-101,Austin Hooper,TE,3500
-101,Darnell Mooney,WR,4000
-101,David Montgomery,RB,7700
+98,Allen Robinson II,WR,7700
+99,Steelers,D,3500
+99,Jalen Hurts,QB,7000
+99,Le'Veon Bell,RB,5800
+99,Noah Fant,TE,4800
+99,Allen Robinson II,WR,7700
+99,Darnell Mooney,WR,4000
+99,David Montgomery,RB,7700
+99,Rodney Smith,RB,4000
+99,Russell Gage,WR,5100
+100,Jalen Reagor,WR,4600
+100,Dallas Goedert,TE,3600
+100,Eagles,D,2900
+100,Mike Williams,WR,4500
+100,Robert Woods,WR,7000
+100,Sammy Watkins,WR,5000
+100,Le'Veon Bell,RB,5800
+100,Patrick Mahomes,QB,8500
+100,David Montgomery,RB,7700
+101,WAS Football Team,D,3000
+101,Tyler Lockett,WR,6500
+101,Diontae Johnson,WR,6300
+101,David Johnson,RB,6100
+101,Amari Cooper,WR,5700
+101,Dalton Schultz,TE,3200
+101,Andy Dalton,QB,5500
+101,Giovani Bernard,RB,4800
 101,Calvin Ridley,WR,8500
-102,Chris Carson,RB,6400
-102,Carlos Hyde,RB,5300
-102,Russell Wilson,QB,7300
-102,Chase Claypool,WR,5900
-102,Sterling Shepard,WR,4500
-102,Robert Woods,WR,7000
-102,Keke Coutee,WR,5400
-102,Broncos,D,2300
-102,Mark Andrews,TE,5700
-103,Eagles,D,2900
-103,Denzel Mims,WR,3600
-103,Jalen Guyton,WR,3200
-103,Tyreek Hill,WR,9000
-103,Patrick Mahomes,QB,8500
-103,Melvin Gordon III,RB,5600
-103,Amari Cooper,WR,5700
-103,Austin Hooper,TE,3500
+102,JuJu Smith-Schuster,WR,6000
+102,Travis Kelce,TE,8500
+102,Le'Veon Bell,RB,5800
+102,Patrick Mahomes,QB,8500
+102,Laviska Shenault Jr.,WR,3700
+102,Cowboys,D,2400
+102,Kareem Hunt,RB,5900
+102,Marquise Brown,WR,5700
+102,Hayden Hurst,TE,3400
+103,Chris Carson,RB,6400
+103,Diontae Johnson,WR,6300
+103,Jalen Hurts,QB,7000
+103,Mike Williams,WR,4500
+103,Jordan Akins,TE,3300
+103,Browns,D,3700
+103,A.J. Green,WR,3400
+103,Allen Robinson II,WR,7700
 103,David Montgomery,RB,7700
+104,Chris Carson,RB,6400
 104,Dallas Goedert,TE,3600
-104,Miles Sanders,RB,7000
-104,Jalen Hurts,QB,7000
-104,DJ Chark Jr.,WR,4800
-104,Devine Ozigbo,RB,4000
-104,Amari Cooper,WR,5700
-104,CeeDee Lamb,WR,5300
-104,Browns,D,3700
-104,Calvin Ridley,WR,8500
-105,Seahawks,D,2600
-105,Alshon Jeffery,WR,3200
-105,Miles Sanders,RB,7000
+104,Tyreek Hill,WR,9000
+104,Sammy Watkins,WR,5000
+104,Chiefs,D,3400
+104,Keelan Cole Sr.,WR,3500
+104,Mike Glennon,QB,4800
+104,Brandin Cooks,WR,6200
+104,David Montgomery,RB,7700
+105,Dallas Goedert,TE,3600
+105,Zach Ertz,TE,3100
 105,Jalen Hurts,QB,7000
-105,Robert Woods,WR,7000
-105,Tyreek Hill,WR,9000
-105,Tony Pollard,RB,6500
-105,Tee Higgins,WR,4700
-105,Drew Sample,TE,2900
-106,Dallas Goedert,TE,3600
-106,Zach Ertz,TE,3100
-106,Jalen Hurts,QB,7000
-106,Chargers,D,3300
-106,Jonathan Taylor,RB,7300
-106,Chad Hansen,WR,4400
-106,Amari Cooper,WR,5700
-106,Allen Robinson II,WR,7700
-106,David Montgomery,RB,7700
-107,Antonio Gibson,RB,6600
-107,Robert Woods,WR,7000
+105,Jets,D,2000
+105,Tyron Johnson,WR,4000
+105,Brandin Cooks,WR,6200
+105,Nick Chubb,RB,7800
+105,David Montgomery,RB,7700
+105,Calvin Ridley,WR,8500
+106,Robert Woods,WR,7000
+106,Travis Kelce,TE,8500
+106,Brandin Cooks,WR,6200
+106,Austin Hooper,TE,3500
+106,Tee Higgins,WR,4700
+106,Giovani Bernard,RB,4800
+106,Ryan Finley,QB,4800
+106,Mike Davis,RB,6500
+106,Ravens,D,4000
+107,Travis Kelce,TE,8500
+107,Dare Ogunbowale,RB,4000
+107,Chad Hansen,WR,4400
 107,Browns,D,3700
+107,Tee Higgins,WR,4700
+107,A.J. Green,WR,3400
+107,Brandon Allen,QB,4800
 107,David Montgomery,RB,7700
-107,Curtis Samuel,WR,4900
-107,Ian Thomas,TE,2500
-107,Mike Davis,RB,6500
-107,Teddy Bridgewater,QB,5300
-107,Marquise Brown,WR,5700
-108,Jamison Crowder,WR,4500
-108,Sterling Shepard,WR,4500
-108,Austin Ekeler,RB,7600
-108,Tyreek Hill,WR,9000
-108,Patrick Mahomes,QB,8500
-108,Nick Vannett,TE,2500
-108,Royce Freeman,RB,4000
-108,Ravens,D,4000
-108,Russell Gage,WR,5100
-109,Jalen Guyton,WR,3200
-109,Austin Ekeler,RB,7600
-109,Sammy Watkins,WR,5000
-109,Patrick Mahomes,QB,8500
-109,Marvin Hall,WR,3000
-109,David Montgomery,RB,7700
-109,Panthers,D,2700
+107,Calvin Ridley,WR,8500
+108,Logan Thomas,TE,4900
+108,Steelers,D,3500
+108,Sammy Watkins,WR,5000
+108,Le'Veon Bell,RB,5800
+108,Marquise Brown,WR,5700
+108,Willie Snead IV,WR,3900
+108,Gus Edwards,RB,4400
+108,Lamar Jackson,QB,8000
+108,Calvin Ridley,WR,8500
+109,Eagles,D,2900
+109,Tyron Johnson,WR,4000
+109,Darrell Henderson Jr.,RB,4500
+109,Tyreek Hill,WR,9000
+109,Travis Kelce,TE,8500
+109,Alex Erickson,WR,3000
+109,Giovani Bernard,RB,4800
+109,Ryan Finley,QB,4800
 109,Calvin Ridley,WR,8500
-109,Hayden Hurst,TE,3400
-110,DK Metcalf,WR,7800
-110,Diontae Johnson,WR,6300
-110,Jets,D,2000
-110,Jalen Guyton,WR,3200
-110,Justin Herbert,QB,7400
-110,David Johnson,RB,6100
-110,Melvin Gordon III,RB,5600
-110,Amari Cooper,WR,5700
-110,Mark Andrews,TE,5700
-111,Chargers,D,3300
-111,Travis Kelce,TE,8500
-111,Devine Ozigbo,RB,4000
-111,Tee Higgins,WR,4700
-111,Robby Anderson,WR,5500
-111,Rodney Smith,RB,4000
-111,Marquise Brown,WR,5700
-111,J.K. Dobbins,RB,6200
-111,Lamar Jackson,QB,8000
-112,Dallas Goedert,TE,3600
-112,Zach Ertz,TE,3100
-112,Miles Sanders,RB,7000
-112,Jalen Hurts,QB,7000
+110,Mike Williams,WR,4500
+110,Darrell Henderson Jr.,RB,4500
+110,Rams,D,3100
+110,Travis Kelce,TE,8500
+110,Zach Pascal,WR,3800
+110,Jonathan Taylor,RB,7300
+110,Philip Rivers,QB,5600
+110,Tee Higgins,WR,4700
+110,Allen Robinson II,WR,7700
+111,Logan Thomas,TE,4900
+111,Boston Scott,RB,4900
+111,Giants,D,2500
+111,Mike Williams,WR,4500
+111,Austin Ekeler,RB,7600
+111,Kalen Ballage,RB,4000
+111,Justin Herbert,QB,7400
+111,Keke Coutee,WR,5400
+111,Calvin Ridley,WR,8500
+112,WAS Football Team,D,3000
+112,Denzel Mims,WR,3600
+112,Evan Engram,TE,3900
 112,Robert Woods,WR,7000
 112,Sammy Watkins,WR,5000
-112,Le'Veon Bell,RB,5800
-112,Chiefs,D,3400
-112,Allen Robinson II,WR,7700
-113,Jalen Reagor,WR,4600
-113,Miles Sanders,RB,7000
-113,Jalen Hurts,QB,7000
-113,Rams,D,3100
-113,Le'Veon Bell,RB,5800
-113,Noah Fant,TE,4800
-113,CeeDee Lamb,WR,5300
-113,Tee Higgins,WR,4700
+112,J.K. Dobbins,RB,6200
+112,Gus Edwards,RB,4400
+112,Lamar Jackson,QB,8000
+112,Calvin Ridley,WR,8500
+113,Austin Ekeler,RB,7600
+113,Tyreek Hill,WR,9000
+113,Colts,D,3200
+113,Tim Patrick,WR,4200
+113,Jerry Jeudy,WR,3700
+113,Amari Cooper,WR,5700
+113,Cole Kmet,TE,3000
 113,David Montgomery,RB,7700
-114,Denzel Mims,WR,3600
-114,Tyron Johnson,WR,4000
-114,Tyreek Hill,WR,9000
-114,Travis Kelce,TE,8500
+113,Mitchell Trubisky,QB,5700
+114,Diontae Johnson,WR,6300
+114,Giants,D,2500
+114,Mike Williams,WR,4500
+114,Austin Ekeler,RB,7600
+114,Mecole Hardman,WR,3100
+114,Le'Veon Bell,RB,5800
 114,Patrick Mahomes,QB,8500
-114,Royce Freeman,RB,4000
-114,Darnell Mooney,WR,4000
-114,Ravens,D,4000
-114,Ito Smith,RB,4000
-115,Zach Ertz,TE,3100
-115,Miles Sanders,RB,7000
-115,Jalen Hurts,QB,7000
+114,Austin Hooper,TE,3500
+114,Nick Chubb,RB,7800
+115,Steven Sims Jr.,WR,3000
+115,WAS Football Team,D,3000
 115,Austin Ekeler,RB,7600
-115,Colts,D,3200
-115,Brandin Cooks,WR,6200
-115,Noah Brown,WR,3000
-115,David Montgomery,RB,7700
-115,Russell Gage,WR,5100
-116,DK Metcalf,WR,7800
-116,Freddie Swain,WR,3000
-116,Austin Ekeler,RB,7600
-116,Marvin Hall,WR,3000
-116,Baker Mayfield,QB,6100
+115,Trey Burton,TE,2700
+115,Jerry Jeudy,WR,3700
+115,Nick Chubb,RB,7800
+115,Allen Robinson II,WR,7700
+115,Mitchell Trubisky,QB,5700
+115,Calvin Ridley,WR,8500
+116,Miles Sanders,RB,7000
+116,Tyreek Hill,WR,9000
+116,Mecole Hardman,WR,3100
+116,Chiefs,D,3400
+116,KJ Hamler,WR,3200
+116,Drew Lock,QB,5000
+116,Nick Chubb,RB,7800
+116,DJ Moore,WR,5800
 116,Mark Andrews,TE,5700
-116,Ravens,D,4000
-116,Calvin Ridley,WR,8500
-116,Ito Smith,RB,4000
-117,Miles Sanders,RB,7000
+117,La'Mical Perine,RB,4000
+117,Tyron Johnson,WR,4000
+117,Donald Parham Jr.,TE,2500
+117,Austin Ekeler,RB,7600
+117,Justin Herbert,QB,7400
+117,Robert Woods,WR,7000
 117,Tyreek Hill,WR,9000
-117,Patrick Mahomes,QB,8500
-117,Colts,D,3200
-117,Keke Coutee,WR,5400
-117,A.J. Green,WR,3400
-117,Cordarrelle Patterson,WR,3000
-117,Mark Andrews,TE,5700
-117,Todd Gurley II,RB,4700
-118,WAS Football Team,D,3000
-118,Miles Sanders,RB,7000
+117,DJ Moore,WR,5800
+117,Panthers,D,2700
+118,Tyler Lockett,WR,6500
+118,Dallas Goedert,TE,3600
+118,Jamison Crowder,WR,4500
+118,Mike Williams,WR,4500
 118,Tyreek Hill,WR,9000
-118,Zach Pascal,WR,3800
-118,Mo Alie-Cox,TE,2500
-118,Philip Rivers,QB,5600
-118,Melvin Gordon III,RB,5600
-118,David Montgomery,RB,7700
-118,DJ Moore,WR,5800
-119,Antonio Gibson,RB,6600
-119,Breshad Perriman,WR,3800
+118,Le'Veon Bell,RB,5800
+118,Patrick Mahomes,QB,8500
+118,C.J. Prosise,RB,4000
+118,Bears,D,3600
+119,WAS Football Team,D,3000
+119,JuJu Smith-Schuster,WR,6000
+119,Chase Claypool,WR,5900
+119,James Washington,WR,3600
+119,Ben Roethlisberger,QB,6400
 119,Austin Ekeler,RB,7600
-119,Rams,D,3100
-119,Mecole Hardman,WR,3100
-119,Patrick Mahomes,QB,8500
-119,Noah Fant,TE,4800
-119,Willie Snead IV,WR,3900
-119,Calvin Ridley,WR,8500
-120,Steven Sims Jr.,WR,3000
-120,Logan Thomas,TE,4900
-120,Diontae Johnson,WR,6300
-120,Chargers,D,3300
-120,Malcolm Brown,RB,4000
+119,Travis Kelce,TE,8500
+119,Melvin Gordon III,RB,5600
+119,Hayden Hurst,TE,3400
+120,Benny Snell Jr.,RB,5300
+120,Eagles,D,2900
+120,Austin Ekeler,RB,7600
+120,Tyreek Hill,WR,9000
 120,Travis Kelce,TE,8500
-120,Brandin Cooks,WR,6200
-120,David Johnson,RB,6100
-120,Deshaun Watson,QB,7600
-121,Greg Ward,WR,4000
-121,Jalen Hurts,QB,7000
-121,Jalen Guyton,WR,3200
-121,Chargers,D,3300
-121,Demarcus Robinson,WR,3900
-121,Jonathan Taylor,RB,7300
+120,Keelan Cole Sr.,WR,3500
+120,Dare Ogunbowale,RB,4000
+120,Gardner Minshew II,QB,5200
+120,Darnell Mooney,WR,4000
+121,Diontae Johnson,WR,6300
+121,Chase Claypool,WR,5900
+121,Jalen Reagor,WR,4600
+121,David Johnson,RB,6100
 121,Noah Fant,TE,4800
-121,Nick Chubb,RB,7800
-121,Calvin Ridley,WR,8500
-122,Josh Reynolds,WR,3200
-122,Darrell Henderson Jr.,RB,4500
-122,Jared Goff,QB,5900
-122,Travis Kelce,TE,8500
-122,Texans,D,2800
-122,Melvin Gordon III,RB,5600
-122,Marvin Hall,WR,3000
-122,David Montgomery,RB,7700
+121,Bengals,D,2300
+121,Marquise Brown,WR,5700
+121,J.K. Dobbins,RB,6200
+121,Lamar Jackson,QB,8000
+122,Logan Thomas,TE,4900
+122,Seahawks,D,2600
+122,Diontae Johnson,WR,6300
+122,Robert Woods,WR,7000
+122,Le'Veon Bell,RB,5800
+122,Rodney Smith,RB,4000
 122,Calvin Ridley,WR,8500
+122,Russell Gage,WR,5100
+122,Matt Ryan,QB,5800
+123,J.D. McKissic,RB,6400
 123,Tyler Lockett,WR,6500
-123,Jalen Guyton,WR,3200
-123,Robert Woods,WR,7000
-123,Travis Kelce,TE,8500
-123,Chiefs,D,3400
-123,DJ Chark Jr.,WR,4800
-123,Devine Ozigbo,RB,4000
-123,Mike Glennon,QB,4800
-123,David Montgomery,RB,7700
-124,David Moore,WR,3200
-124,Chris Carson,RB,6400
-124,Robert Woods,WR,7000
-124,Travis Kelce,TE,8500
-124,Le'Veon Bell,RB,5800
-124,Jaguars,D,2200
-124,Marvin Hall,WR,3000
-124,David Montgomery,RB,7700
-124,Matt Ryan,QB,5800
-125,Breshad Perriman,WR,3800
-125,Jalen Guyton,WR,3200
-125,Le'Veon Bell,RB,5800
-125,Chiefs,D,3400
-125,Deshaun Watson,QB,7600
-125,Ezekiel Elliott,RB,6700
-125,Cole Kmet,TE,3000
+123,Jacob Hollister,TE,2900
+123,Chris Carson,RB,6400
+123,Russell Wilson,QB,7300
+123,Cooper Kupp,WR,6600
+123,Le'Veon Bell,RB,5800
+123,Laviska Shenault Jr.,WR,3700
+123,Ravens,D,4000
+124,Antonio Gibson,RB,6600
+124,Mike Williams,WR,4500
+124,Browns,D,3700
+124,Drew Sample,TE,2900
+124,Giovani Bernard,RB,4800
+124,Allen Robinson II,WR,7700
+124,Mitchell Trubisky,QB,5700
+124,Robby Anderson,WR,5500
+124,Calvin Ridley,WR,8500
+125,Cam Sims,WR,3300
+125,Diontae Johnson,WR,6300
+125,Ben Roethlisberger,QB,6400
+125,Miles Sanders,RB,7000
+125,Tyreek Hill,WR,9000
+125,Austin Hooper,TE,3500
+125,Anthony Miller,WR,3200
 125,David Montgomery,RB,7700
-125,Calvin Ridley,WR,8500
-126,Antonio Gibson,RB,6600
-126,Miles Sanders,RB,7000
-126,Travis Kelce,TE,8500
-126,Le'Veon Bell,RB,5800
-126,Colts,D,3200
-126,Brandin Cooks,WR,6200
-126,Darnell Mooney,WR,4000
-126,Cordarrelle Patterson,WR,3000
-126,Mitchell Trubisky,QB,5700
-127,Diontae Johnson,WR,6300
-127,Ray-Ray McCloud III,WR,3000
-127,Ben Roethlisberger,QB,6400
-127,Travis Kelce,TE,8500
+125,Bears,D,3600
+126,Chase Claypool,WR,5900
+126,Benny Snell Jr.,RB,5300
+126,Ben Roethlisberger,QB,6400
+126,Darius Slayton,WR,3800
+126,Cowboys,D,2400
+126,Austin Hooper,TE,3500
+126,David Montgomery,RB,7700
+126,Mike Davis,RB,6500
+126,Calvin Ridley,WR,8500
+127,Alshon Jeffery,WR,3200
+127,Darius Slayton,WR,3800
+127,Cooper Kupp,WR,6600
+127,Tyreek Hill,WR,9000
 127,Le'Veon Bell,RB,5800
-127,Nyheim Hines,RB,5000
-127,Amari Cooper,WR,5700
-127,CeeDee Lamb,WR,5300
-127,Browns,D,3700
-128,Greg Ward,WR,4000
-128,Jalen Hurts,QB,7000
+127,Patrick Mahomes,QB,8500
+127,Mo Alie-Cox,TE,2500
+127,Texans,D,2800
+127,David Montgomery,RB,7700
+128,James Conner,RB,5800
+128,Dallas Goedert,TE,3600
+128,Austin Ekeler,RB,7600
 128,Robert Woods,WR,7000
-128,Travis Kelce,TE,8500
-128,Darwin Thompson,RB,4000
-128,David Johnson,RB,6100
-128,Amari Cooper,WR,5700
-128,Tee Higgins,WR,4700
-128,Panthers,D,2700
-129,Diontae Johnson,WR,6300
-129,Sterling Shepard,WR,4500
-129,Darius Slayton,WR,3800
-129,Daniel Jones,QB,5000
+128,Tyreek Hill,WR,9000
+128,Keelan Cole Sr.,WR,3500
+128,Browns,D,3700
+128,Darnell Mooney,WR,4000
+128,Mitchell Trubisky,QB,5700
+129,Cam Sims,WR,3300
 129,Austin Ekeler,RB,7600
 129,Travis Kelce,TE,8500
-129,Chiefs,D,3400
+129,Devine Ozigbo,RB,4000
 129,Brandin Cooks,WR,6200
-129,Gus Edwards,RB,4400
-130,Antonio Gibson,RB,6600
-130,WAS Football Team,D,3000
-130,Jalen Hurts,QB,7000
-130,Sterling Shepard,WR,4500
-130,Cooper Kupp,WR,6600
-130,Amari Cooper,WR,5700
-130,CeeDee Lamb,WR,5300
-130,Austin Hooper,TE,3500
-130,David Montgomery,RB,7700
-131,Kalen Ballage,RB,4000
+129,David Johnson,RB,6100
+129,Texans,D,2800
+129,Mitchell Trubisky,QB,5700
+129,DJ Moore,WR,5800
+130,Seahawks,D,2600
+130,Eric Ebron,TE,4200
+130,James Conner,RB,5800
+130,Mike Williams,WR,4500
+130,Darrell Henderson Jr.,RB,4500
+130,Brandin Cooks,WR,6200
+130,Allen Robinson II,WR,7700
+130,Calvin Ridley,WR,8500
+130,Matt Ryan,QB,5800
+131,Dallas Goedert,TE,3600
+131,Demarcus Robinson,WR,3900
 131,Travis Kelce,TE,8500
 131,Le'Veon Bell,RB,5800
-131,Chiefs,D,3400
-131,Chris Conley,WR,3000
-131,T.Y. Hilton,WR,5500
-131,Brandin Cooks,WR,6200
-131,Allen Robinson II,WR,7700
-131,Mitchell Trubisky,QB,5700
-132,Antonio Gibson,RB,6600
-132,Chase Claypool,WR,5900
-132,Travis Kelce,TE,8500
-132,Buddy Howell,RB,4000
-132,Bengals,D,2300
-132,Darnell Mooney,WR,4000
-132,David Montgomery,RB,7700
-132,Mitchell Trubisky,QB,5700
-132,Russell Gage,WR,5100
+131,Patrick Mahomes,QB,8500
+131,Devine Ozigbo,RB,4000
+131,Cowboys,D,2400
+131,Tee Higgins,WR,4700
+131,Calvin Ridley,WR,8500
+132,Darius Slayton,WR,3800
+132,Mike Williams,WR,4500
+132,Darrell Henderson Jr.,RB,4500
+132,Brandin Cooks,WR,6200
+132,Deshaun Watson,QB,7600
+132,Nick Chubb,RB,7800
+132,Marquise Brown,WR,5700
+132,Mark Andrews,TE,5700
+132,Ravens,D,4000
+133,Logan Thomas,TE,4900
+133,J.D. McKissic,RB,6400
 133,Chase Claypool,WR,5900
-133,Ben Roethlisberger,QB,6400
-133,Miles Sanders,RB,7000
-133,Chargers,D,3300
-133,Tyler Higbee,TE,4000
-133,Le'Veon Bell,RB,5800
-133,T.Y. Hilton,WR,5500
-133,Brandin Cooks,WR,6200
-133,Amari Cooper,WR,5700
-134,WAS Football Team,D,3000
-134,DK Metcalf,WR,7800
-134,Darius Slayton,WR,3800
-134,Justin Herbert,QB,7400
-134,Laviska Shenault Jr.,WR,3700
-134,David Johnson,RB,6100
-134,Noah Fant,TE,4800
-134,Melvin Gordon III,RB,5600
-134,Allen Robinson II,WR,7700
-135,DK Metcalf,WR,7800
-135,Chris Carson,RB,6400
-135,Miles Sanders,RB,7000
-135,Jamison Crowder,WR,4500
-135,Tyreek Hill,WR,9000
-135,Marvin Hall,WR,3000
-135,Austin Hooper,TE,3500
-135,Baker Mayfield,QB,6100
-135,Bengals,D,2300
-136,Miles Sanders,RB,7000
-136,Justin Jackson,RB,4000
+133,Jalen Reagor,WR,4600
+133,Jalen Hurts,QB,7000
+133,Austin Ekeler,RB,7600
+133,Chiefs,D,3400
+133,CeeDee Lamb,WR,5300
+133,Curtis Samuel,WR,4900
+134,Sam Darnold,QB,5000
+134,Robert Woods,WR,7000
+134,Sammy Watkins,WR,5000
+134,Le'Veon Bell,RB,5800
+134,Austin Hooper,TE,3500
+134,David Montgomery,RB,7700
+134,Bears,D,3600
+134,DJ Moore,WR,5800
+134,J.K. Dobbins,RB,6200
+135,Tyron Johnson,WR,4000
+135,Travis Kelce,TE,8500
+135,Dare Ogunbowale,RB,4000
+135,Texans,D,2800
+135,Melvin Gordon III,RB,5600
+135,Anthony Miller,WR,3200
+135,David Montgomery,RB,7700
+135,Mitchell Trubisky,QB,5700
+135,Calvin Ridley,WR,8500
+136,Antonio Gibson,RB,6600
+136,Austin Ekeler,RB,7600
+136,Chargers,D,3300
 136,Tyreek Hill,WR,9000
-136,Travis Kelce,TE,8500
-136,Keelan Cole Sr.,WR,3500
-136,Devine Ozigbo,RB,4000
-136,Colts,D,3200
-136,Tee Higgins,WR,4700
-136,Mitchell Trubisky,QB,5700
-137,Chargers,D,3300
-137,Travis Kelce,TE,8500
-137,DJ Chark Jr.,WR,4800
-137,Laviska Shenault Jr.,WR,3700
-137,Zach Pascal,WR,3800
-137,Philip Rivers,QB,5600
+136,Tyler Eifert,TE,3000
+136,Chad Hansen,WR,4400
+136,Deshaun Watson,QB,7600
+136,Tim Patrick,WR,4200
+136,Darnell Mooney,WR,4000
+137,Seahawks,D,2600
+137,Diontae Johnson,WR,6300
+137,Jalen Hurts,QB,7000
+137,Brandin Cooks,WR,6200
+137,Allen Robinson II,WR,7700
 137,David Montgomery,RB,7700
-137,Patrick Ricard,RB,4000
-137,Calvin Ridley,WR,8500
-138,Alshon Jeffery,WR,3200
-138,Jalen Hurts,QB,7000
-138,Austin Ekeler,RB,7600
-138,Zach Pascal,WR,3800
-138,Brandin Cooks,WR,6200
+137,Curtis Samuel,WR,4900
+137,Hayden Hurst,TE,3400
+137,Ito Smith,RB,4000
+138,Diontae Johnson,WR,6300
+138,Darrell Henderson Jr.,RB,4500
+138,Jonathan Taylor,RB,7300
 138,Texans,D,2800
+138,Darnell Mooney,WR,4000
 138,Cole Kmet,TE,3000
 138,David Montgomery,RB,7700
+138,Mitchell Trubisky,QB,5700
 138,Calvin Ridley,WR,8500
-139,Darrell Henderson Jr.,RB,4500
-139,Tyreek Hill,WR,9000
-139,Le'Veon Bell,RB,5800
-139,Patrick Mahomes,QB,8500
-139,Michael Pittman Jr.,WR,4200
-139,Keke Coutee,WR,5400
-139,Jordan Akins,TE,3300
-139,Melvin Gordon III,RB,5600
-139,Browns,D,3700
-140,Russell Wilson,QB,7300
-140,JuJu Smith-Schuster,WR,6000
-140,Austin Ekeler,RB,7600
-140,David Johnson,RB,6100
-140,Texans,D,2800
-140,Tim Patrick,WR,4200
-140,Dalton Schultz,TE,3200
-140,Samaje Perine,RB,4000
-140,Calvin Ridley,WR,8500
-141,JuJu Smith-Schuster,WR,6000
-141,Miles Sanders,RB,7000
-141,Mike Williams,WR,4500
-141,Chad Hansen,WR,4400
-141,Deshaun Watson,QB,7600
-141,KJ Hamler,WR,3200
-141,Browns,D,3700
-141,David Montgomery,RB,7700
-141,Mark Andrews,TE,5700
-142,Jets,D,2000
-142,Tyreek Hill,WR,9000
-142,Patrick Mahomes,QB,8500
-142,Zach Pascal,WR,3800
-142,Nick Chubb,RB,7800
-142,Drew Sample,TE,2900
-142,Miles Boykin,WR,3100
-142,Calvin Ridley,WR,8500
-142,Ito Smith,RB,4000
-143,Diontae Johnson,WR,6300
-143,Mike Williams,WR,4500
-143,Gerald Everett,TE,2800
-143,Patrick Mahomes,QB,8500
-143,David Johnson,RB,6100
-143,Michael Gallup,WR,4100
-143,Panthers,D,2700
-143,J.K. Dobbins,RB,6200
-143,Calvin Ridley,WR,8500
-144,Seahawks,D,2600
-144,Diontae Johnson,WR,6300
-144,La'Mical Perine,RB,4000
-144,Darius Slayton,WR,3800
-144,Cooper Kupp,WR,6600
-144,Darrell Henderson Jr.,RB,4500
-144,Travis Kelce,TE,8500
+139,Chris Carson,RB,6400
+139,Diontae Johnson,WR,6300
+139,Eric Ebron,TE,4200
+139,Robert Woods,WR,7000
+139,Rams,D,3100
+139,Chad Hansen,WR,4400
+139,David Johnson,RB,6100
+139,Deshaun Watson,QB,7600
+139,Giovani Bernard,RB,4800
+140,DK Metcalf,WR,7800
+140,Benny Snell Jr.,RB,5300
+140,Dallas Goedert,TE,3600
+140,Tyreek Hill,WR,9000
+140,Devine Ozigbo,RB,4000
+140,Michael Gallup,WR,4100
+140,Ezekiel Elliott,RB,6700
+140,Andy Dalton,QB,5500
+140,Ravens,D,4000
+141,Antonio Gibson,RB,6600
+141,Diontae Johnson,WR,6300
+141,Sam Darnold,QB,5000
+141,Cooper Kupp,WR,6600
+141,Texans,D,2800
+141,Melvin Gordon III,RB,5600
+141,Austin Hooper,TE,3500
+141,Curtis Samuel,WR,4900
+141,Calvin Ridley,WR,8500
+142,Giants,D,2500
+142,Mike Williams,WR,4500
+142,Robert Woods,WR,7000
+142,Travis Kelce,TE,8500
+142,Le'Veon Bell,RB,5800
+142,T.Y. Hilton,WR,5500
+142,Melvin Gordon III,RB,5600
+142,Tee Higgins,WR,4700
+142,Mitchell Trubisky,QB,5700
+143,WAS Football Team,D,3000
+143,Austin Ekeler,RB,7600
+143,Le'Veon Bell,RB,5800
+143,Brandin Cooks,WR,6200
+143,Chad Hansen,WR,4400
+143,Deshaun Watson,QB,7600
+143,Amari Cooper,WR,5700
+143,Austin Hooper,TE,3500
+143,Kareem Hunt,RB,5900
+144,Dallas Goedert,TE,3600
+144,Le'Veon Bell,RB,5800
+144,DJ Chark Jr.,WR,4800
+144,Amari Cooper,WR,5700
+144,Andy Dalton,QB,5500
+144,Browns,D,3700
 144,Allen Robinson II,WR,7700
-144,Mitchell Trubisky,QB,5700
-145,WAS Football Team,D,3000
-145,Travis Kelce,TE,8500
-145,Le'Veon Bell,RB,5800
-145,Patrick Mahomes,QB,8500
-145,Keelan Cole Sr.,WR,3500
-145,Michael Gallup,WR,4100
-145,Austin Hooper,TE,3500
-145,Nick Chubb,RB,7800
-145,Russell Gage,WR,5100
-146,WAS Football Team,D,3000
-146,Diontae Johnson,WR,6300
-146,Robert Woods,WR,7000
-146,Travis Kelce,TE,8500
-146,Le'Veon Bell,RB,5800
-146,Keelan Cole Sr.,WR,3500
-146,David Johnson,RB,6100
-146,Darnell Mooney,WR,4000
+144,David Montgomery,RB,7700
+144,Russell Gage,WR,5100
+145,Antonio Gibson,RB,6600
+145,Tyler Lockett,WR,6500
+145,Miles Sanders,RB,7000
+145,Sterling Shepard,WR,4500
+145,CeeDee Lamb,WR,5300
+145,Andy Dalton,QB,5500
+145,Bears,D,3600
+145,Curtis Samuel,WR,4900
+145,Mark Andrews,TE,5700
+146,Austin Ekeler,RB,7600
+146,Tyler Higbee,TE,4000
+146,Demarcus Robinson,WR,3900
+146,Devine Ozigbo,RB,4000
+146,Cowboys,D,2400
+146,Allen Robinson II,WR,7700
 146,Mitchell Trubisky,QB,5700
-147,Miles Sanders,RB,7000
-147,Jalen Guyton,WR,3200
-147,Austin Ekeler,RB,7600
-147,Cooper Kupp,WR,6600
-147,Jordan Akins,TE,3300
-147,David Johnson,RB,6100
-147,Deshaun Watson,QB,7600
-147,Browns,D,3700
-147,Curtis Samuel,WR,4900
-148,Cam Sims,WR,3300
-148,David Moore,WR,3200
-148,Tyreek Hill,WR,9000
-148,Sammy Watkins,WR,5000
-148,Patrick Mahomes,QB,8500
+146,DJ Moore,WR,5800
+146,Calvin Ridley,WR,8500
+147,Tyler Lockett,WR,6500
+147,Chris Carson,RB,6400
+147,Russell Wilson,QB,7300
+147,Mike Williams,WR,4500
+147,Donald Parham Jr.,TE,2500
+147,Chargers,D,3300
+147,Nyheim Hines,RB,5000
+147,Melvin Gordon III,RB,5600
+147,Calvin Ridley,WR,8500
+148,Alshon Jeffery,WR,3200
+148,Jalen Hurts,QB,7000
+148,Travis Kelce,TE,8500
+148,Keke Coutee,WR,5400
+148,Texans,D,2800
 148,Melvin Gordon III,RB,5600
-148,Austin Hooper,TE,3500
+148,Michael Gallup,WR,4100
 148,David Montgomery,RB,7700
-148,Ravens,D,4000
-149,Cooper Kupp,WR,6600
-149,Le'Veon Bell,RB,5800
-149,Chiefs,D,3400
-149,Devine Ozigbo,RB,4000
-149,Tim Patrick,WR,4200
-149,Noah Fant,TE,4800
-149,Drew Lock,QB,5000
-149,Allen Robinson II,WR,7700
+148,Robby Anderson,WR,5500
+149,Diontae Johnson,WR,6300
+149,Donald Parham Jr.,TE,2500
+149,Austin Ekeler,RB,7600
+149,Dare Ogunbowale,RB,4000
+149,Brandin Cooks,WR,6200
+149,Deshaun Watson,QB,7600
+149,Alex Erickson,WR,3000
+149,Ravens,D,4000
 149,Calvin Ridley,WR,8500
+150,Diontae Johnson,WR,6300
+150,Dallas Goedert,TE,3600
+150,Miles Sanders,RB,7000
+150,Mike Williams,WR,4500
+150,Austin Ekeler,RB,7600
+150,Tyreek Hill,WR,9000
+150,Cowboys,D,2400
+150,Tee Higgins,WR,4700
+150,Ryan Finley,QB,4800
+151,Seahawks,D,2600
+151,Zach Ertz,TE,3100
+151,Miles Sanders,RB,7000
+151,Jalen Hurts,QB,7000
+151,Mike Williams,WR,4500
+151,Austin Ekeler,RB,7600
+151,Keelan Cole Sr.,WR,3500
+151,DJ Moore,WR,5800
+151,Calvin Ridley,WR,8500
+152,Miles Sanders,RB,7000
+152,Mike Williams,WR,4500
+152,Travis Kelce,TE,8500
+152,Deshaun Watson,QB,7600
+152,Royce Freeman,RB,4000
+152,David Njoku,TE,2500
+152,Tee Higgins,WR,4700
+152,Panthers,D,2700
+152,Calvin Ridley,WR,8500
+153,Cam Sims,WR,3300
+153,Seahawks,D,2600
+153,Wayne Gallman Jr.,RB,5700
+153,Donald Parham Jr.,TE,2500
+153,Tyreek Hill,WR,9000
+153,Patrick Mahomes,QB,8500
+153,Laviska Shenault Jr.,WR,3700
+153,J.K. Dobbins,RB,6200
+153,Calvin Ridley,WR,8500
+154,Giants,D,2500
+154,Mecole Hardman,WR,3100
+154,Travis Kelce,TE,8500
+154,Laviska Shenault Jr.,WR,3700
+154,Allen Robinson II,WR,7700
+154,David Montgomery,RB,7700
+154,Mitchell Trubisky,QB,5700
+154,Curtis Samuel,WR,4900
+154,J.K. Dobbins,RB,6200
+155,DK Metcalf,WR,7800
+155,Chris Carson,RB,6400
+155,Russell Wilson,QB,7300
+155,Tyron Johnson,WR,4000
+155,Darrell Henderson Jr.,RB,4500
+155,Tyreek Hill,WR,9000
+155,Broncos,D,2300
+155,CeeDee Lamb,WR,5300
+155,Hayden Hurst,TE,3400
+156,Chargers,D,3300
+156,Travis Kelce,TE,8500
+156,Brandin Cooks,WR,6200
+156,Noah Fant,TE,4800
+156,Nick Chubb,RB,7800
+156,Tee Higgins,WR,4700
+156,A.J. Green,WR,3400
+156,Brandon Allen,QB,4800
+156,Mike Davis,RB,6500
+157,Cam Sims,WR,3300
+157,Steelers,D,3500
+157,Robert Woods,WR,7000
+157,Darrell Henderson Jr.,RB,4500
+157,Travis Kelce,TE,8500
+157,Le'Veon Bell,RB,5800
+157,Chad Hansen,WR,4400
+157,Deshaun Watson,QB,7600
+157,Russell Gage,WR,5100
+158,DK Metcalf,WR,7800
+158,Miles Sanders,RB,7000
+158,Zach Pascal,WR,3800
+158,Chad Hansen,WR,4400
+158,Texans,D,2800
+158,Allen Robinson II,WR,7700
+158,Cole Kmet,TE,3000
+158,David Montgomery,RB,7700
+158,Mitchell Trubisky,QB,5700
+159,WAS Football Team,D,3000
+159,Austin Ekeler,RB,7600
+159,Robert Woods,WR,7000
+159,Tyreek Hill,WR,9000
+159,Laviska Shenault Jr.,WR,3700
+159,Gardner Minshew II,QB,5200
+159,Kareem Hunt,RB,5900
+159,Curtis Samuel,WR,4900
+159,Hayden Hurst,TE,3400
+160,Sterling Shepard,WR,4500
+160,Sammy Watkins,WR,5000
+160,Travis Kelce,TE,8500
+160,Patrick Mahomes,QB,8500
+160,Keelan Cole Sr.,WR,3500
+160,David Johnson,RB,6100
+160,Texans,D,2800
+160,Marvin Hall,WR,3000
+160,David Montgomery,RB,7700
+161,Darrell Henderson Jr.,RB,4500
+161,Sammy Watkins,WR,5000
+161,Travis Kelce,TE,8500
+161,Texans,D,2800
+161,Amari Cooper,WR,5700
+161,CeeDee Lamb,WR,5300
+161,Andy Dalton,QB,5500
+161,Giovani Bernard,RB,4800
+161,David Montgomery,RB,7700
+162,Eric Ebron,TE,4200
+162,Darrell Henderson Jr.,RB,4500
+162,Chad Hansen,WR,4400
+162,A.J. Green,WR,3400
+162,David Montgomery,RB,7700
+162,Bears,D,3600
+162,Marquise Brown,WR,5700
+162,Lamar Jackson,QB,8000
+162,Calvin Ridley,WR,8500
+163,Greg Ward,WR,4000
+163,Dallas Goedert,TE,3600
+163,Jalen Hurts,QB,7000
+163,Robert Woods,WR,7000
+163,Travis Kelce,TE,8500
+163,Le'Veon Bell,RB,5800
+163,Chad Hansen,WR,4400
+163,Texans,D,2800
+163,Tony Pollard,RB,6500
+164,Freddie Swain,WR,3000
+164,Darrell Henderson Jr.,RB,4500
+164,Travis Kelce,TE,8500
+164,Jaguars,D,2200
+164,Nick Chubb,RB,7800
+164,Ryan Finley,QB,4800
+164,Allen Robinson II,WR,7700
+164,J.K. Dobbins,RB,6200
+164,Russell Gage,WR,5100
+165,Diontae Johnson,WR,6300
+165,Jalen Reagor,WR,4600
+165,Boston Scott,RB,4900
+165,Jalen Hurts,QB,7000
+165,Denzel Mims,WR,3600
+165,Tyreek Hill,WR,9000
+165,Dalton Schultz,TE,3200
+165,Browns,D,3700
+165,David Montgomery,RB,7700
+166,Dallas Goedert,TE,3600
+166,Zach Ertz,TE,3100
+166,Jalen Hurts,QB,7000
+166,Chargers,D,3300
+166,Ezekiel Elliott,RB,6700
+166,Nick Chubb,RB,7800
+166,Tee Higgins,WR,4700
+166,Calvin Ridley,WR,8500
+166,Russell Gage,WR,5100
+167,Cam Sims,WR,3300
+167,Logan Thomas,TE,4900
+167,Dwayne Haskins Jr.,QB,5200
+167,Robert Woods,WR,7000
+167,Nick Chubb,RB,7800
+167,Browns,D,3700
+167,Allen Robinson II,WR,7700
+167,Marquise Brown,WR,5700
+167,Todd Gurley II,RB,4700
+168,J.D. McKissic,RB,6400
+168,Jalen Reagor,WR,4600
+168,Kalen Ballage,RB,4000
+168,Sammy Watkins,WR,5000
+168,Travis Kelce,TE,8500
+168,Patrick Mahomes,QB,8500
+168,Kareem Hunt,RB,5900
+168,Ravens,D,4000
+168,Christian Blake,WR,3000
+169,Cam Sims,WR,3300
+169,Cooper Kupp,WR,6600
+169,Tyreek Hill,WR,9000
+169,Travis Kelce,TE,8500
+169,Laviska Shenault Jr.,WR,3700
+169,Devine Ozigbo,RB,4000
+169,Gardner Minshew II,QB,5200
+169,David Montgomery,RB,7700
+169,Falcons,D,1900
+170,Alshon Jeffery,WR,3200
+170,Miles Sanders,RB,7000
+170,Jalen Hurts,QB,7000
+170,Frank Gore,RB,4200
+170,Cooper Kupp,WR,6600
+170,Travis Kelce,TE,8500
+170,Jaguars,D,2200
+170,Brandin Cooks,WR,6200
+170,Tee Higgins,WR,4700
+171,Seahawks,D,2600
+171,Darius Slayton,WR,3800
+171,Mike Williams,WR,4500
+171,Justin Herbert,QB,7400
+171,Sammy Watkins,WR,5000
+171,Travis Kelce,TE,8500
+171,Le'Veon Bell,RB,5800
+171,Chad Hansen,WR,4400
+171,David Montgomery,RB,7700
+172,Jalen Reagor,WR,4600
+172,Tyron Johnson,WR,4000
+172,Mike Williams,WR,4500
+172,Darrell Henderson Jr.,RB,4500
+172,Tyreek Hill,WR,9000
+172,Patrick Mahomes,QB,8500
+172,Noah Fant,TE,4800
+172,Broncos,D,2300
+172,David Montgomery,RB,7700
+173,Diontae Johnson,WR,6300
+173,Austin Ekeler,RB,7600
+173,Robert Woods,WR,7000
+173,Travis Kelce,TE,8500
+173,Jaguars,D,2200
+173,CeeDee Lamb,WR,5300
+173,Marvin Hall,WR,3000
+173,Baker Mayfield,QB,6100
+173,Rodney Smith,RB,4000
+174,Miles Sanders,RB,7000
+174,Donald Parham Jr.,TE,2500
+174,Tyreek Hill,WR,9000
+174,Chiefs,D,3400
+174,Tee Higgins,WR,4700
+174,David Montgomery,RB,7700
+174,Robby Anderson,WR,5500
+174,Curtis Samuel,WR,4900
+174,Teddy Bridgewater,QB,5300
+175,Miles Sanders,RB,7000
+175,Tyreek Hill,WR,9000
+175,Travis Kelce,TE,8500
+175,Patrick Mahomes,QB,8500
+175,Dare Ogunbowale,RB,4000
+175,Alex Erickson,WR,3000
+175,Bengals,D,2300
+175,Darnell Mooney,WR,4000
+175,Hayden Hurst,TE,3400
+176,WAS Football Team,D,3000
+176,Alshon Jeffery,WR,3200
+176,Ty Johnson,RB,4500
+176,Travis Kelce,TE,8500
+176,Amari Cooper,WR,5700
+176,Dalton Schultz,TE,3200
+176,Andy Dalton,QB,5500
+176,David Montgomery,RB,7700
+176,Calvin Ridley,WR,8500
+177,Jamison Crowder,WR,4500
+177,Sterling Shepard,WR,4500
+177,Rams,D,3100
+177,Travis Kelce,TE,8500
+177,T.Y. Hilton,WR,5500
+177,Nick Chubb,RB,7800
+177,Kareem Hunt,RB,5900
+177,Baker Mayfield,QB,6100
+177,Darnell Mooney,WR,4000
+178,Eric Ebron,TE,4200
+178,Greg Ward,WR,4000
+178,Jalen Hurts,QB,7000
+178,Jalen Guyton,WR,3200
+178,Tyreek Hill,WR,9000
+178,Dare Ogunbowale,RB,4000
+178,Texans,D,2800
+178,Nick Chubb,RB,7800
+178,Allen Robinson II,WR,7700
+179,Giants,D,2500
+179,Travis Kelce,TE,8500
+179,Le'Veon Bell,RB,5800
+179,Keelan Cole Sr.,WR,3500
+179,James O'Shaughnessy,TE,2500
+179,Gardner Minshew II,QB,5200
+179,Amari Cooper,WR,5700
+179,David Montgomery,RB,7700
+179,Calvin Ridley,WR,8500
+180,Diontae Johnson,WR,6300
+180,James Conner,RB,5800
+180,Ben Roethlisberger,QB,6400
+180,Giants,D,2500
+180,Travis Kelce,TE,8500
+180,Devine Ozigbo,RB,4000
+180,Amari Cooper,WR,5700
+180,Giovani Bernard,RB,4800
+180,DJ Moore,WR,5800
+181,WAS Football Team,D,3000
+181,Tyler Lockett,WR,6500
+181,Dallas Goedert,TE,3600
+181,Miles Sanders,RB,7000
+181,Jalen Hurts,QB,7000
+181,Le'Veon Bell,RB,5800
+181,Brandin Cooks,WR,6200
+181,Dalton Schultz,TE,3200
+181,Allen Robinson II,WR,7700
+182,Chris Carson,RB,6400
+182,Diontae Johnson,WR,6300
+182,Miles Sanders,RB,7000
+182,Jalen Guyton,WR,3200
+182,Robert Woods,WR,7000
+182,Josh Reynolds,WR,3200
+182,Jared Goff,QB,5900
+182,Travis Kelce,TE,8500
+182,Cowboys,D,2400
+183,Darius Slayton,WR,3800
+183,Daniel Jones,QB,5000
+183,Donald Parham Jr.,TE,2500
+183,Tyreek Hill,WR,9000
+183,T.Y. Hilton,WR,5500
+183,Texans,D,2800
+183,Amari Cooper,WR,5700
+183,Nick Chubb,RB,7800
+183,David Montgomery,RB,7700
+184,Diontae Johnson,WR,6300
+184,Robert Woods,WR,7000
+184,Travis Kelce,TE,8500
+184,Dare Ogunbowale,RB,4000
+184,Devine Ozigbo,RB,4000
+184,Gardner Minshew II,QB,5200
+184,Texans,D,2800
+184,Tim Patrick,WR,4200
+184,David Montgomery,RB,7700
+185,Zach Ertz,TE,3100
+185,Ty Johnson,RB,4500
+185,Robert Woods,WR,7000
+185,Keke Coutee,WR,5400
+185,David Johnson,RB,6100
+185,Deshaun Watson,QB,7600
+185,Panthers,D,2700
+185,Calvin Ridley,WR,8500
+185,Russell Gage,WR,5100
+186,Austin Ekeler,RB,7600
+186,Cooper Kupp,WR,6600
+186,Malcolm Brown,RB,4000
+186,Travis Kelce,TE,8500
+186,Laviska Shenault Jr.,WR,3700
+186,Keelan Cole Sr.,WR,3500
+186,Gardner Minshew II,QB,5200
+186,Texans,D,2800
+186,Nick Chubb,RB,7800
+187,Logan Thomas,TE,4900
+187,Alshon Jeffery,WR,3200
+187,Miles Sanders,RB,7000
+187,Jalen Hurts,QB,7000
+187,La'Mical Perine,RB,4000
+187,Cooper Kupp,WR,6600
+187,DJ Chark Jr.,WR,4800
+187,Browns,D,3700
+187,Calvin Ridley,WR,8500
+188,DK Metcalf,WR,7800
+188,Travis Kelce,TE,8500
+188,Darrel Williams,RB,4200
+188,Laviska Shenault Jr.,WR,3700
+188,Devine Ozigbo,RB,4000
+188,Gardner Minshew II,QB,5200
+188,DJ Moore,WR,5800
+188,Mike Davis,RB,6500
+188,Ravens,D,4000
+189,Dallas Goedert,TE,3600
+189,Miles Sanders,RB,7000
+189,Jalen Hurts,QB,7000
+189,Austin Ekeler,RB,7600
+189,Chargers,D,3300
+189,Michael Pittman Jr.,WR,4200
+189,Keke Coutee,WR,5400
+189,Brandin Cooks,WR,6200
+189,Amari Cooper,WR,5700
+190,Austin Ekeler,RB,7600
+190,David Johnson,RB,6100
+190,Texans,D,2800
+190,Austin Hooper,TE,3500
+190,Giovani Bernard,RB,4800
+190,Robby Anderson,WR,5500
+190,Calvin Ridley,WR,8500
+190,Russell Gage,WR,5100
+190,Matt Ryan,QB,5800
+191,Jalen Guyton,WR,3200
+191,Travis Kelce,TE,8500
+191,Chiefs,D,3400
+191,Devine Ozigbo,RB,4000
+191,Darnell Mooney,WR,4000
+191,David Montgomery,RB,7700
+191,Mitchell Trubisky,QB,5700
+191,Curtis Samuel,WR,4900
+191,Calvin Ridley,WR,8500
+192,DK Metcalf,WR,7800
+192,La'Mical Perine,RB,4000
+192,Tyreek Hill,WR,9000
+192,Texans,D,2800
+192,Harrison Bryant,TE,2500
+192,Kareem Hunt,RB,5900
+192,D'Ernest Johnson,RB,4000
+192,Baker Mayfield,QB,6100
+192,Allen Robinson II,WR,7700
+193,Cam Sims,WR,3300
+193,Cooper Kupp,WR,6600
+193,Malcolm Brown,RB,4000
+193,Demarcus Robinson,WR,3900
+193,Travis Kelce,TE,8500
+193,Patrick Mahomes,QB,8500
+193,Tee Higgins,WR,4700
+193,David Montgomery,RB,7700
+193,Panthers,D,2700
+194,Chris Carson,RB,6400
+194,Denzel Mims,WR,3600
+194,Darrell Henderson Jr.,RB,4500
+194,Travis Kelce,TE,8500
+194,Le'Veon Bell,RB,5800
+194,Patrick Mahomes,QB,8500
+194,Tee Higgins,WR,4700
+194,Panthers,D,2700
+194,Russell Gage,WR,5100
+195,J.D. McKissic,RB,6400
+195,Travis Kelce,TE,8500
+195,David Johnson,RB,6100
+195,Texans,D,2800
+195,Jerry Jeudy,WR,3700
+195,Michael Gallup,WR,4100
+195,Calvin Ridley,WR,8500
+195,Ito Smith,RB,4000
+195,Matt Ryan,QB,5800
+196,Antonio Gibson,RB,6600
+196,J.D. McKissic,RB,6400
+196,Jalen Reagor,WR,4600
+196,Alshon Jeffery,WR,3200
+196,Boston Scott,RB,4900
+196,Jalen Hurts,QB,7000
+196,Travis Kelce,TE,8500
+196,Amari Cooper,WR,5700
+196,Panthers,D,2700
+197,Darius Slayton,WR,3800
+197,Rams,D,3100
+197,Tyreek Hill,WR,9000
+197,Patrick Mahomes,QB,8500
+197,David Johnson,RB,6100
+197,Tee Higgins,WR,4700
+197,Darnell Mooney,WR,4000
+197,Cole Kmet,TE,3000
+197,David Montgomery,RB,7700
+198,Jets,D,2000
+198,Evan Engram,TE,3900
+198,Austin Ekeler,RB,7600
+198,Le'Veon Bell,RB,5800
+198,Tim Patrick,WR,4200
+198,Marquise Brown,WR,5700
+198,Willie Snead IV,WR,3900
+198,Lamar Jackson,QB,8000
+198,Calvin Ridley,WR,8500
+199,Logan Thomas,TE,4900
+199,Tyler Lockett,WR,6500
+199,Austin Ekeler,RB,7600
+199,Amari Cooper,WR,5700
+199,Browns,D,3700
+199,Giovani Bernard,RB,4800
+199,Allen Robinson II,WR,7700
+199,Mitchell Trubisky,QB,5700
+199,Brandon Powell,WR,3000
