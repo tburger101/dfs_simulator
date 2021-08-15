@@ -10,7 +10,8 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 * numpy
 * pandas
 
-## config.txt file
+## Data Files
+### config.txt file
 - salary_cap- total salary cap for the dummy teams
 - roster_const- list of tupples which detail the position followed by how many of that position the roster need to include
 - total_roster- total roster positions
@@ -36,7 +37,6 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - fp - Projected fantasy points
 - fp_std - Estimated player standard deviation
 
-## Files
 ### Output Files - Files the sytem generates to summarize the result of the sims
 #### dummy_teams
 - id - Team ID reference created by the simulation engine
