@@ -21,7 +21,7 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - top_percent- The top percent of teams you want to look at
 - path- Where you store the dfs_contest_sims folder on your local machine 
 
-## Input Files - Configurable by user
+### Input Files - Configurable by user
 #### correlation.csv- Shows how each position is correlated
 #### ownership_player.csv - Projected ownership of contest
 - player_name- Name of player
@@ -36,7 +36,8 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - fp - Projected fantasy points
 - fp_std - Estimated player standard deviation
 
-## Output Files - Files the sytem generates to summarize the result of the sims
+## Files
+### Output Files - Files the sytem generates to summarize the result of the sims
 #### dummy_teams
 - id - Team ID reference created by the simulation engine
 - player - Name of player
