@@ -447,7 +447,11 @@ class lineup_simulator:
         final_rank_df=pd.DataFrame(total_rank)
 
         final_rank_df.columns=['bin'+str(x) for x in final_rank_df.columns]
-        final_rank_df.to_csv(str(self.csv_path + "/Output Files/" + "ranks.csv"), index=True)
+        sim_df=((final_rank_df['bin0']/self.sims)*100)
+        sim_df=sim_df.to_frame()
+        sim_df.reset_index(inplace=True)
+        sim_df.columns=['team_id', 'top_percent']
+        sim_df.to_csv(str(self.csv_path + "/Output Files/" + "ranks.csv"), index=False)
 
     def dummy_teams(self):
         #Output the dummy teams to a CSV
