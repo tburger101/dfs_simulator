@@ -63,6 +63,7 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - top_percent - Percent of time the team finished in the user top_percent specified in the config.txt file.
 
 ## Running the simulations
-- First edit all your input files based on your own estimations
+- Ensure sure all dependent libraries are installed
+- Edit all your input files based on your own estimations
 - Run the file sim.py
 
