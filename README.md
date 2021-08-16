@@ -38,13 +38,13 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - fp_std - Estimated player standard deviation
 
 ### Output Files - Files the sytem generates to summarize the result of the sims
-#### dummy_teams
+#### dummy_teams.csv
 - id - Team ID reference created by the simulation engine
 - player - Name of player
 - position - Position of player
 - salary - Salary of player
 
-#### sim_ownership
+#### sim_ownership.csv
 - sim_ownership - The percentage of top lineups the player was in. Top lineup percent is in the config.txt file
 - player_name - Name of player
 - team - Player  team
@@ -57,6 +57,10 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - fp_std - Player projected standard deviation. Number is from the player_projection_std.csv
 - created_own - Total percentage of lineups the player is in based on our dummy teams
 - positive_ev - sim_ownership minus created_own. Shows the how the absolute different the player outperformed his created ownership
+
+#### ranks.csv
+- team_id- Id which corresponds to a particular dummy team. Will map to the dummy_teams.csv id.
+- top_percent - Percent of time the team finished in the user top_percent specified in the config.txt file.
 
 ## Running the simulations
 - First edit all your input files based on your own estimations
