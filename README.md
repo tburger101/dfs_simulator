@@ -62,6 +62,10 @@ This python code is designed to simulate an NFL DFS contest. The process is outl
 - team_id- Id which corresponds to a particular dummy team. Will map to the dummy_teams.csv id.
 - top_percent - Percent of time the team finished in the user top_percent specified in the config.txt file.
 
+## Python Files
+- contest_simlulator.py - This is the simulator class
+- sim_py - The file to run to kick off the sim
+
 ## Running the simulations
 - Ensure sure all dependent libraries are installed
 - Edit all your input files based on your own estimations
