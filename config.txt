@@ -4,8 +4,8 @@
 'total_roster':9,
 'stack_player_percent': [.08, .42, .44, .06],
 'opp_stack_percent': .5,
-'contest_size': 100,
-'num_sims': 200,
+'contest_size': 10000,
+'num_sims': 5000,
 'top_percent':.005,
 'path': "C:/Users/travi/PycharmProjects/dfs_simulator/dfs_contest_sims"
 }

@@ -463,20 +463,3 @@ class lineup_simulator:
         dummy_teams_df=pd.DataFrame(teams, columns=['id', 'player', 'position','salary'])
         dummy_teams_df.to_csv(str(self.csv_path + "/Output Files/" + "dummy_teams.csv"), index=False)
 
-if __name__ == '__main__':
-    generator=lineup_simulator()
-    generator.initialize_variables()
-
-    time1=time.time()
-    generator.teams_mp()
-    time2=time.time()
-
-    generator.correlated_random_samples()
-    time3=time.time()
-
-    generator.contest_sims()
-    time4=time.time()
-
-    print(['team time', (time2-time1)/60])
-    print(['sample time', (time3 - time2) / 60])
-    print(['sim time', (time4 - time3) / 60])
